@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" >
+  <channel>
+    <title>Disease Outbreak News</title>
+    <link>http://www.who.int/feeds/entity/csr/don/en/rss.xml</link>
+    <description></description>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Feb 2011 19:46:19 GMT</lastBuildDate>
+    <managingEditor>internet@who.int</managingEditor>
+    <webMaster>internet@who.int</webMaster>
+    <copyright>&#xA9; World Health Organization (WHO), 2011. All rights reserved.
+      http://www.who.int/about/copyright/en/
+      http://www.who.int/about/licensing/rss/en/</copyright>
+    <ttl>60</ttl>
+    <generator>WHO Webit (Bricolage 1.11.2)</generator>
+    <docs>http://backend.userland.com/rss</docs>
+    <item>
+        <title>Avian influenza - situation in Egypt - update 43</title>
+        <description>The Ministry of Health of Egypt has announced a case of human infection with avian influenza A(H5N1) virus. A 7 year-old male from Gharbia Governorate, developed symptoms on 20 January and was hospitalized on 20 January. He is in a stable condition.</description>
+        <pubDate>Wed, 02 Feb 2011 08:00:00 GMT</pubDate>
+        <link>http://www.who.int/entity/csr/don/2011_02_02/en/index.html</link>
+    </item>
+    <item>
+        <title>Yellow fever in Côte d'Ivoire - update </title>
+        <description>More than 700,000 people were vaccinated against yellow fever in the recent emergency vaccination campaign in Côte d'Ivoire led by the Ministry of Health with support from WHO and UNICEF.</description>
+        <pubDate>Tue, 01 Feb 2011 09:50:00 GMT</pubDate>
+        <link>http://www.who.int/entity/csr/don/2011_02_01/en/index.html</link>
+    </item>
+    <item>
+        <title>Yellow fever in Côte d'Ivoire</title>
+        <description>On 3 January 2011, the Minister of Health in Côte d'Ivoire notified WHO of a yellow fever outbreak in the north of the country.  As of January 17, 2011 a total of 12 cases tested IgM positive by ELISA at the Institut Pasteur of Abidjan and were subsequently confirmed positive for yellow fever by the regional reference laboratory, the Institut Pasteur of Dakar (by ELISA and PRNT).  These cases originate from Béoumi and Katiola districts, in the Bandama Valley Region in the centre of the country, and Séguéla and Mankono in the Worodougou Region in the north of the country.  </description>
+        <pubDate>Tue, 25 Jan 2011 09:50:00 GMT</pubDate>
+        <link>http://www.who.int/entity/csr/don/2011_01_25/en/index.html</link>
+    </item>
+    <item>
+        <title>Avian influenza - situation in Egypt - update 42</title>
+        <description>The Ministry of Health of Egypt has announced a new case of human infection of H5N1 avian influenza. A 1-year-old male from Alexandria Governorate, developed symptoms on  12 January and was hospitalized on 13 January. He is in a stable condition.</description>
+        <pubDate>Thu, 20 Jan 2011 08:00:00 GMT</pubDate>
+        <link>http://www.who.int/entity/csr/don/2011_01_20/en/index.html</link>
+    </item>
+    <item>
+        <title>Yellow fever in Uganda </title>
+        <description>On 23 December 2010, the Minister of Health in Uganda reported 3 laboratory confirmed cases of yellow fever, detected through a special investigation following an outbreak in the country in October 2010. The cases were reported in 3 districts of Abim, Agago and Kitgum near the border with South Sudan. </description>
+        <pubDate>Wed, 19 Jan 2011 08:51:00 GMT</pubDate>
+        <link>http://www.who.int/entity/csr/don/2011_01_19/en/index.html</link>
+    </item>
+  </channel>
+</rss>

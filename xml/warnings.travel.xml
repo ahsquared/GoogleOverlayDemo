@@ -1,0 +1,4249 @@
+<?xml version="1.0" encoding="ISO-8859-15" ?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" 
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:dcterms="http://purl.org/dc/terms/" 
+         xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns:ta="http://www.smartraveller.gov.au/schema/rss/travel_advisories/" >
+
+    <channel rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/~rss1_0/Advice">
+          <title>Travel Advisories</title>
+          <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice</link>
+          <description>the Australian Department of Foreign Affairs and Trade's Smartraveller advisory service</description>
+        
+          <dc:language>en</dc:language>
+
+          <dc:subject>foreign; affairs; trade; diplomacy; australia; international; treaties; diplomatic; economy</dc:subject>
+          <dc:creator>corporateName: Department of Foreign Affairs and Trade</dc:creator>
+          <dc:publisher>corporateName: Department of Foreign Affairs and Trade</dc:publisher>
+          <dc:type>Collection</dc:type>
+          <dc:rights>Copyright Commonwealth of Australia 2005</dc:rights>
+          <dc:coverage>Global</dc:coverage>
+
+          <sy:updatePeriod>daily</sy:updatePeriod>
+          <sy:updateFrequency>4</sy:updateFrequency>
+          <sy:updateBase>2004-01-01T12:00+11:00</sy:updateBase>
+        
+          <image rdf:resource="http://www.dfat.gov.au/lib/images/dfat_logo_small.gif" />
+        
+          <items>
+            <rdf:Seq>
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Egypt" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malaysia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sudan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Africa" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Japan" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Colombia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Philippines" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/East_Timor" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cook_Islands" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Maldives" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Solomon_Islands" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Poland" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Spain" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Costa_Rica" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Indonesia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tunisia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tonga" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ethiopia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bolivia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Fiji" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cyprus" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Russia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Afghanistan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mali" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Niger" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Yemen" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Central_African_Republic" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guam" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Haiti" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Laos" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Palau" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lebanon" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/French_Polynesia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belgium" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritius" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gabon" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mongolia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mexico" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chile" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brazil" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Botswana" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Caledonia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ivory_Coast" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kenya" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nigeria" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hungary" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritania" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vanuatu" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sri_Lanka" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Kingdom" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Algeria" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malawi" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Serbia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Switzerland" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kazakhstan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Azerbaijan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Georgia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Croatia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Libya" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Netherlands" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Taiwan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Czech_Republic" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Germany" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vietnam" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/India" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Italy" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uganda" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Qatar" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belarus" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jordan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Pakistan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Israel_Gaza_Strip_and_West_Bank" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kuwait" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cambodia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sweden" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Armenia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guatemala" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Argentina" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Honduras" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Romania" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guinea" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Denmark" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belize" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Macau" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Samoa" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/France" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guyana" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Benin" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cuba" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Dominican_Republic" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/El_Salvador" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Syria" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nepal" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ecuador" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Venezuela" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bangladesh" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Arab_Emirates" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Peru" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lithuania" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkmenistan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Rwanda" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Angola" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ukraine" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Panama" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Finland" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/North_Korea" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Korea" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burma" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gambia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mozambique" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Namibia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lesotho" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Madagascar" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Morocco" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jamaica" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Trinidad_and_Tobago" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bosnia_and_Herzegovina" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malta" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burundi" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kosovo" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Oman" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iran" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Norway" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Papua_New_Guinea" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_States_of_America" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkey" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Suriname" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saint_Lucia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Canada" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saudi_Arabia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zambia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tajikistan" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sierra_Leone" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Latvia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Estonia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uzbekistan" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brunei_Darussalam" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hong_Kong" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/General" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ireland" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Senegal" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kyrgyz_Republic" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zimbabwe" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Albania" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Thailand" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Portugal" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Moldova" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Greece" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/FYROM" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Austria" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bahrain" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/shipping_and_ports" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/China" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Zealand" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Somalia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Liberia" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ghana" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Swaziland" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burkina_Faso" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cameroon" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Singapore" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Eritrea" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iraq" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Democratic_Republic_of_the_Congo" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tanzania" /> 
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Djibouti" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nicaragua" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Puerto_Rico" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Seychelles" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chad" /> 
+              
+              
+              <rdf:li rdf:resource="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Montenegro" /> 
+              
+              
+            </rdf:Seq>
+
+          </items>
+    </channel>
+
+    <image rdf:about="http://www.dfat.gov.au/lib/images/dfat_logo_small.gif">
+	<title>Advice</title>
+        <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice</link>
+        <url>http://www.dfat.gov.au/lib/images/dfat_logo_small.gif</url>
+    </image>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Egypt"> 
+      <title>Egypt</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Egypt</link>
+      <description>
+    This advice has been reviewed and updated.  It contains new information in the Summary (security situation in Cairo increasingly volatile) and updates to the Travel Bulletin "Assistance to Australians departing Egypt").  The overall level remains at Do not travel.
+    </description>
+      <dc:coverage>Egypt</dc:coverage>
+      <dc:date>2011-02-03T07:38:17Z</dc:date>
+
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-02-03T07:38:17Z</dcterms:issued>
+      <dcterms:modified>2011-02-03T07:38:17Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Egypt</dc:coverage>
+        <ta:level>5/5</ta:level>
+
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malaysia"> 
+      <title>Malaysia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malaysia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (severe rainstorms and flash flooding). The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Malaysia</dc:coverage>
+      <dc:date>2011-02-02T09:04:35Z</dc:date>
+      <dcterms:created>2000-09-22T05:04:19Z</dcterms:created>
+      <dcterms:issued>2011-02-02T09:04:35Z</dcterms:issued>
+      <dcterms:modified>2011-02-02T09:04:35Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Malaysia</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Islands, dive sites and coastal areas of Eastern Sabah</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sudan"> 
+      <title>Sudan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sudan</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the summary and under Safety and Security: Civil Unrest/Political Tension (protests occurred in Khartoum on 30 January 2011).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Sudan</dc:coverage>
+      <dc:date>2011-02-01T22:42:22Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-02-01T22:42:22Z</dcterms:issued>
+      <dcterms:modified>2011-02-01T22:46:24Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Sudan</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Africa"> 
+      <title>South Africa</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Africa</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (state of disaster declared due to floods). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>South Africa</dc:coverage>
+      <dc:date>2011-02-01T22:24:15Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-02-01T22:24:15Z</dcterms:issued>
+
+      <dcterms:modified>2011-02-01T22:24:15Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>South Africa</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Japan"> 
+      <title>Japan</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Japan</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (volcanic activity at Mt Kirishima). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Japan</dc:coverage>
+      <dc:date>2011-02-01T22:23:47Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-02-01T22:23:47Z</dcterms:issued>
+      <dcterms:modified>2011-02-03T02:02:30Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Japan</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Colombia"> 
+      <title>Colombia </title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Colombia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information under Local Travel (flooding and mudslides have affected travel in some areas) and Health Issues (altitude sickness). The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Colombia</dc:coverage>
+
+      <dc:date>2011-01-30T22:16:13Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-30T22:16:13Z</dcterms:issued>
+      <dcterms:modified>2011-01-30T23:29:32Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Colombia</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>The provinces of Cesar, La Guajira and Antioquia (excluding Medellin), the cities of Cali and Popayan, most rural areas</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Santander, Putumayo, Arauca, Cauca, Caqueta, Guaviare, Valle de Cauca, Narino, Norte de Santander and Meta</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Philippines"> 
+      <title>Philippines</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Philippines</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (bus bombing in Manila).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Philippines</dc:coverage>
+      <dc:date>2011-01-28T06:56:54Z</dc:date>
+
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-28T06:56:54Z</dcterms:issued>
+      <dcterms:modified>2011-01-28T06:56:54Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Philippines</dc:coverage>
+        <ta:level>3/5</ta:level>
+
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Mindanao, including the Zamboanga Peninsula and the Sulu Archipelago</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/East_Timor"> 
+      <title>East Timor</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/East_Timor</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>East Timor</dc:coverage>
+      <dc:date>2011-01-27T22:24:44Z</dc:date>
+
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-27T22:24:44Z</dcterms:issued>
+      <dcterms:modified>2011-02-02T01:51:16Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>East Timor</dc:coverage>
+        <ta:level>3/5</ta:level>
+
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cook_Islands"> 
+      <title>Cook Islands</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cook_Islands</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Cook Islands</dc:coverage>
+      <dc:date>2011-01-27T22:19:24Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-27T22:19:24Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T22:19:24Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Cook Islands</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Maldives"> 
+      <title>Maldives</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Maldives</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Civil Unrest/Political Tension (local government elections scheduled for 5 February). The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Maldives</dc:coverage>
+      <dc:date>2011-01-27T22:17:38Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-27T22:17:38Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-27T22:17:38Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Maldives</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Solomon_Islands"> 
+      <title>Solomon Islands</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Solomon_Islands</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Wildlife (attacks by dogs).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Solomon Islands</dc:coverage>
+      <dc:date>2011-01-27T22:13:52Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2011-01-27T22:13:52Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T22:13:52Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Solomon Islands</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Poland"> 
+      <title>Poland</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Poland</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Poland</dc:coverage>
+
+      <dc:date>2011-01-27T22:13:04Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-27T22:13:04Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T22:13:04Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Poland</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Spain"> 
+      <title>Spain</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Spain</link>
+      <description>
+
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Local Travel (World Youth Day Madrid 2011). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Spain</dc:coverage>
+      <dc:date>2011-01-27T21:57:20Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-27T21:57:20Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T21:57:20Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Spain</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Costa_Rica"> 
+      <title>Costa Rica</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Costa_Rica</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Health Issues (Costa Rican authorities require a Yellow Fever certificate for visitors arriving from some countries).The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Costa Rica</dc:coverage>
+      <dc:date>2011-01-27T21:48:14Z</dc:date>
+      <dcterms:created>2002-08-08T03:29:39Z</dcterms:created>
+
+      <dcterms:issued>2011-01-27T21:48:14Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T21:48:14Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Costa Rica</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Indonesia"> 
+      <title>Indonesia </title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Indonesia</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (disruption to flights between Australia and Bali caused by volcanic ash).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Indonesia</dc:coverage>
+
+      <dc:date>2011-01-27T13:20:44Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-27T13:20:44Z</dcterms:issued>
+      <dcterms:modified>2011-01-28T04:44:54Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Indonesia</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tunisia"> 
+      <title>Tunisia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tunisia</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (threats against US-affiliated schools) and Where to Get Help (Canadian Embassy in Tunis providing consular assistance to Australians in Tunisia).  The overall level of the advice remains at Reconsider your need to travel.
+    </description>
+      <dc:coverage>Tunisia</dc:coverage>
+      <dc:date>2011-01-27T09:49:44Z</dc:date>
+      <dcterms:created>2001-09-20T10:08:26Z</dcterms:created>
+      <dcterms:issued>2011-01-27T09:49:44Z</dcterms:issued>
+      <dcterms:modified>2011-01-27T09:49:44Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Tunisia</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tonga"> 
+      <title>Tonga</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tonga</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Tonga</dc:coverage>
+      <dc:date>2011-01-27T02:07:48Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-27T02:07:48Z</dcterms:issued>
+      <dcterms:modified>2011-01-31T23:15:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Tonga</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ethiopia"> 
+      <title>Ethiopia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ethiopia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Ethiopia</dc:coverage>
+
+      <dc:date>2011-01-25T08:32:15Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-25T08:32:15Z</dcterms:issued>
+      <dcterms:modified>2011-02-01T11:04:40Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Ethiopia</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Kenya, Somalia, Sudan and Eritrea, the Gambella region and Ogaden area</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bolivia"> 
+      <title>Bolivia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bolivia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Health Issues (state of emergency declared following an outbreak of Dengue Fever). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Bolivia</dc:coverage>
+
+      <dc:date>2011-01-25T07:12:52Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-25T07:12:52Z</dcterms:issued>
+      <dcterms:modified>2011-01-25T07:12:52Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Bolivia</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Fiji"> 
+      <title>Fiji</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Fiji</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information under Health Issues (cases of Hand, Foot and Mouth Disease reported in Suva).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Fiji</dc:coverage>
+      <dc:date>2011-01-24T23:12:21Z</dc:date>
+      <dcterms:created>2000-08-01T00:30:16Z</dcterms:created>
+      <dcterms:issued>2011-01-24T23:12:21Z</dcterms:issued>
+      <dcterms:modified>2011-01-24T23:12:21Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Fiji</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Suva</dc:coverage>
+            <ta:level>3/5</ta:level>
+
+            <dc:description>High degree of caution</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cyprus"> 
+      <title>Cyprus</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cyprus</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Cyprus</dc:coverage>
+      <dc:date>2011-01-24T23:09:09Z</dc:date>
+      <dcterms:created>2001-10-05T00:04:40Z</dcterms:created>
+      <dcterms:issued>2011-01-24T23:09:09Z</dcterms:issued>
+      <dcterms:modified>2011-01-24T23:09:09Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Cyprus</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Russia"> 
+      <title>Russia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Russia</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (explosion at Moscow's Domodedovo International Airport).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Russia</dc:coverage>
+      <dc:date>2011-01-24T20:57:58Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-24T20:57:58Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-26T10:29:04Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Russia</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>North Caucasus</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Afghanistan"> 
+      <title>Afghanistan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Afghanistan</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the summary and under Safety and Security: Terrorism (major hotels in Kabul continue to be attractive targets for terrorists and updated information on places that may be subject to terrorist attack) and Airline Safety (ban imposed by the EU on all Afghan airlines). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Afghanistan</dc:coverage>
+      <dc:date>2011-01-24T06:36:57Z</dc:date>
+      <dcterms:created>2000-08-01T02:14:00Z</dcterms:created>
+      <dcterms:issued>2011-01-24T06:36:57Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-24T06:36:57Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Afghanistan</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mali"> 
+      <title>Mali</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mali</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (French embassy attacked in January 2011, kidnap threat at festivals).The overall level of the advice has not changed.  
+    </description>
+      <dc:coverage>Mali</dc:coverage>
+      <dc:date>2011-01-21T06:58:40Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-21T06:58:40Z</dcterms:issued>
+      <dcterms:modified>2011-01-30T23:16:47Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Mali</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Northern Mali, including Timbuktu, Gao and Kidal, Border areas with Mauritania, Algeria and Niger</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Koulikoro province (north of the town of Mourdiah), Segou province (north of the town of Niono) and Mopti province</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Niger"> 
+      <title>Niger </title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Niger</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (US peace Corps temporarily suspends operations, French nationals kidnapped and killed in January 2011, kidnap threat at festivals). The overall level of the advice for Niger has not changed.
+    </description>
+      <dc:coverage>Niger</dc:coverage>
+      <dc:date>2011-01-21T06:57:34Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-21T06:57:34Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-21T06:57:34Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Niger</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Niamey</dc:coverage>
+
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Yemen"> 
+      <title>Yemen</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Yemen</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (updated information on locations that could be attacked by terrorists and new advice to Australians to avoid, where possible, locations frequented by foreigners, to adopt a low profile and to observe strict security procedures at all times in Yemen).   The overall level of the advice has not changed.  
+    </description>
+      <dc:coverage>Yemen</dc:coverage>
+      <dc:date>2011-01-21T04:25:48Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-21T04:25:48Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-23T01:06:15Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Yemen</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Central_African_Republic"> 
+      <title>Central African Republic</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Central_African_Republic</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (Presidential elections are scheduled for 23 January 2011).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Central African Republic</dc:coverage>
+      <dc:date>2011-01-21T03:40:20Z</dc:date>
+      <dcterms:created>2001-06-12T06:03:11Z</dcterms:created>
+
+      <dcterms:issued>2011-01-21T03:40:20Z</dcterms:issued>
+      <dcterms:modified>2011-01-21T03:45:03Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Central African Republic</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Bangui</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guam"> 
+      <title>Guam</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guam</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Guam</dc:coverage>
+      <dc:date>2011-01-21T02:23:52Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-21T02:23:52Z</dcterms:issued>
+      <dcterms:modified>2011-01-21T02:23:52Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Guam</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Haiti"> 
+      <title>Haiti</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Haiti</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (Australian officials advised to postpone visits to Haiti at this time). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Haiti</dc:coverage>
+
+      <dc:date>2011-01-21T02:19:44Z</dc:date>
+      <dcterms:created>2001-08-13T01:04:39Z</dcterms:created>
+      <dcterms:issued>2011-01-21T02:19:44Z</dcterms:issued>
+      <dcterms:modified>2011-01-21T02:19:44Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Haiti</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Laos"> 
+      <title>Laos</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Laos</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information under Crime (banditry on roads). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Laos</dc:coverage>
+      <dc:date>2011-01-20T23:06:58Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-20T23:06:58Z</dcterms:issued>
+      <dcterms:modified>2011-01-20T23:06:58Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Laos</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Palau"> 
+      <title>Palau</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Palau</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Palau</dc:coverage>
+      <dc:date>2011-01-20T23:01:53Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-20T23:01:53Z</dcterms:issued>
+      <dcterms:modified>2011-01-20T23:01:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Palau</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lebanon"> 
+      <title>Lebanon</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lebanon</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Civil Unrest/Political Tension (collapse of the national unity government and filing of indictments by the Special Tribunal for Lebanon on 17 January).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Lebanon</dc:coverage>
+
+      <dc:date>2011-01-20T01:19:55Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-20T01:19:55Z</dcterms:issued>
+      <dcterms:modified>2011-01-21T02:11:24Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Lebanon</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>South of the Litani River and Palestinian refugee camps</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/French_Polynesia"> 
+      <title>French Polynesia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/French_Polynesia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>French Polynesia</dc:coverage>
+
+      <dc:date>2011-01-20T00:34:12Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-20T00:34:12Z</dcterms:issued>
+      <dcterms:modified>2011-01-20T00:34:12Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>French Polynesia</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+        <ta:warning>
+            <dc:coverage>Papeete</dc:coverage>
+            <ta:level>2/5</ta:level>
+            <dc:description>Exercise caution</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belgium"> 
+      <title>Belgium</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belgium</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Belgium</dc:coverage>
+
+      <dc:date>2011-01-19T23:04:08Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-19T23:04:08Z</dcterms:issued>
+      <dcterms:modified>2011-01-19T23:04:08Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Belgium</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritius"> 
+      <title>Mauritius</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritius</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Mauritius</dc:coverage>
+      <dc:date>2011-01-19T22:07:35Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-19T22:07:35Z</dcterms:issued>
+      <dcterms:modified>2011-01-19T22:07:35Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Mauritius</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gabon"> 
+      <title>Gabon</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gabon</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Gabon</dc:coverage>
+      <dc:date>2011-01-19T22:03:51Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-19T22:03:51Z</dcterms:issued>
+      <dcterms:modified>2011-01-19T22:03:51Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Gabon</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mongolia"> 
+      <title>Mongolia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mongolia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Mongolia</dc:coverage>
+
+      <dc:date>2011-01-19T21:15:55Z</dc:date>
+      <dcterms:created>2001-11-01T03:49:14Z</dcterms:created>
+      <dcterms:issued>2011-01-19T21:15:55Z</dcterms:issued>
+      <dcterms:modified>2011-01-19T21:15:55Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Mongolia</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mexico"> 
+      <title>Mexico </title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mexico</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Crime (reconsider your need to travel to Ciudad Juarez due to the very high level of drug-related violence).  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Mexico</dc:coverage>
+      <dc:date>2011-01-19T05:29:08Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-19T05:29:08Z</dcterms:issued>
+      <dcterms:modified>2011-01-19T05:29:08Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Mexico</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Ciudad Juarez</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chile"> 
+      <title>Chile</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chile</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice for the country has not changed. 
+    </description>
+
+      <dc:coverage>Chile</dc:coverage>
+      <dc:date>2011-01-17T06:03:59Z</dc:date>
+      <dcterms:created>2002-01-31T05:56:07Z</dcterms:created>
+      <dcterms:issued>2011-01-17T06:03:59Z</dcterms:issued>
+      <dcterms:modified>2011-01-20T05:26:25Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Chile</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brazil"> 
+      <title>Brazil</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brazil</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Natural Disasters, Severe Weather and Climate (flooding in south-eastern Brazil).   The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Brazil</dc:coverage>
+      <dc:date>2011-01-17T04:15:04Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-17T04:15:04Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-17T04:15:04Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Brazil</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Botswana"> 
+      <title>Botswana</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Botswana</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Botswana</dc:coverage>
+      <dc:date>2011-01-17T02:46:03Z</dc:date>
+      <dcterms:created>2001-05-30T03:33:19Z</dcterms:created>
+
+      <dcterms:issued>2011-01-17T02:46:03Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T02:46:03Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Botswana</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Caledonia"> 
+      <title>New Caledonia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Caledonia</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (southern part of mainland New Caledonia moved to Red alert  cyclone imminent). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>New Caledonia</dc:coverage>
+
+      <dc:date>2011-01-14T05:21:33Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-14T05:21:33Z</dcterms:issued>
+      <dcterms:modified>2011-01-14T05:21:33Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>New Caledonia</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ivory_Coast"> 
+      <title>C?te d'Ivoire</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ivory_Coast</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information in the summary and under Safety and Security: Civil Unrest/Political Tension and Where to get help (Canadian Embassy providing consular assistance by appointment only).  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>C?te d'Ivoire</dc:coverage>
+      <dc:date>2011-01-14T05:08:46Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-14T05:08:46Z</dcterms:issued>
+      <dcterms:modified>2011-01-14T05:08:46Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>C?te d'Ivoire</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Dix-Huit Montagnes and Moyen-Cavally regions of western C?te d&#8217;Ivoire and the city of Bouake </dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kenya"> 
+      <title>Kenya</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kenya</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Terrorism (bomb detonated in Nairobi bus station on 20 December 2010).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Kenya</dc:coverage>
+      <dc:date>2011-01-14T00:46:39Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-14T00:46:39Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-14T00:46:39Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Kenya</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Nairobi suburbs of Kibera, Mathare, Kasirani and Eastleigh</dc:coverage>
+
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Border regions with Ethiopia, Sudan and Somalia</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nigeria"> 
+      <title>Nigeria</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nigeria</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Terrorism (security advice provided to Australian officials).  The overall level of the advice has not changed.  
+    </description>
+      <dc:coverage>Nigeria</dc:coverage>
+
+      <dc:date>2011-01-13T07:27:49Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-13T07:27:49Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:23:54Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Nigeria</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Riverine area of Bayelsa, Delta, Rivers (and Bonny Island), Abia State, Akwa Ibom and Anambra States in the south-east</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hungary"> 
+      <title>Hungary</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hungary</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Local Laws (Budapest City Council bans smoking at all public transport stops).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Hungary</dc:coverage>
+
+      <dc:date>2011-01-13T04:23:24Z</dc:date>
+      <dcterms:created>2000-08-01T00:44:16Z</dcterms:created>
+      <dcterms:issued>2011-01-13T04:23:24Z</dcterms:issued>
+      <dcterms:modified>2011-01-13T04:23:24Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Hungary</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritania"> 
+      <title>Mauritania</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mauritania</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Mauritania</dc:coverage>
+      <dc:date>2011-01-12T23:12:23Z</dc:date>
+      <dcterms:created>2002-05-02T01:50:50Z</dcterms:created>
+      <dcterms:issued>2011-01-12T23:12:23Z</dcterms:issued>
+      <dcterms:modified>2011-01-12T23:12:23Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Mauritania</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Mali, Algeria and Western Sahara</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vanuatu"> 
+      <title>Vanuatu</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vanuatu</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Vanuatu</dc:coverage>
+      <dc:date>2011-01-12T06:34:00Z</dc:date>
+      <dcterms:created>2002-04-26T03:06:23Z</dcterms:created>
+      <dcterms:issued>2011-01-12T06:34:00Z</dcterms:issued>
+      <dcterms:modified>2011-01-24T05:10:03Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Vanuatu</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sri_Lanka"> 
+      <title>Sri Lanka</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sri_Lanka</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (widespread flooding in the Eastern, Central and North Central provinces). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Sri Lanka</dc:coverage>
+      <dc:date>2011-01-12T06:31:40Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-12T06:31:40Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-12T06:31:40Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Sri Lanka</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Northern Province (Mannar, Vavuniya, Mullaitivu, Kilinochchi and Jaffna Districts)</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Kingdom"> 
+      <title>United Kingdom</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Kingdom</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (increased security at major transport hubs). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>United Kingdom</dc:coverage>
+      <dc:date>2011-01-11T06:32:12Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-11T06:32:12Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-11T06:32:12Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>United Kingdom</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Algeria"> 
+      <title>Algeria</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Algeria</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (violent demonstrations).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Algeria</dc:coverage>
+      <dc:date>2011-01-11T02:27:20Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2011-01-11T02:27:20Z</dcterms:issued>
+      <dcterms:modified>2011-01-11T02:27:20Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Algeria</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malawi"> 
+      <title>Malawi</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malawi</link>
+      <description>
+    This advice has been reviewed and reissued.  It includes new information under Safety and Security: Local Travel (breathalyser tests and speed cameras introduced). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Malawi</dc:coverage>
+
+      <dc:date>2011-01-10T03:15:35Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-10T03:15:35Z</dcterms:issued>
+      <dcterms:modified>2011-01-10T03:15:35Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Malawi</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Serbia"> 
+      <title>Serbia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Serbia</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information under Information for Dual Nationals (compulsory military service abolished from 1 January 2011) and Entry and Exit Requirements (Temporary Residence Permit).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Serbia</dc:coverage>
+      <dc:date>2011-01-06T04:59:00Z</dc:date>
+      <dcterms:created>2006-06-28T01:27:00Z</dcterms:created>
+      <dcterms:issued>2011-01-06T04:59:00Z</dcterms:issued>
+      <dcterms:modified>2011-01-06T04:59:00Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Serbia</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Switzerland"> 
+      <title>Switzerland</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Switzerland</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate and Health Issues (danger of avalanches and recommendations for alpine travel). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Switzerland</dc:coverage>
+      <dc:date>2011-01-06T04:50:55Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2011-01-06T04:50:55Z</dcterms:issued>
+      <dcterms:modified>2011-01-06T04:50:55Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Switzerland</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kazakhstan"> 
+      <title>Kazakhstan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kazakhstan</link>
+      <description>
+    This advice has been reviewed and reissued.    The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Kazakhstan</dc:coverage>
+
+      <dc:date>2011-01-05T22:07:45Z</dc:date>
+      <dcterms:created>2001-12-16T23:00:30Z</dcterms:created>
+      <dcterms:issued>2011-01-05T22:07:45Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T22:07:45Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Kazakhstan</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Azerbaijan"> 
+      <title>Azerbaijan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Azerbaijan</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information under Entry and Exit Requirements (foreigners staying longer than 30 days are required to register with local police).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Azerbaijan</dc:coverage>
+      <dc:date>2011-01-05T21:43:38Z</dc:date>
+      <dcterms:created>2001-11-08T04:50:04Z</dcterms:created>
+      <dcterms:issued>2011-01-05T21:43:38Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T21:43:38Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Azerbaijan</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Nagorno-Karabakh and surrounding military occupied areas</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Georgia"> 
+      <title>Georgia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Georgia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Georgia</dc:coverage>
+      <dc:date>2011-01-05T06:20:23Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-05T06:20:23Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T06:20:23Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Georgia</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>South Ossetia and Abkhazia (including adjacent areas) and Pankisi Gorge north of Akhmeta</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Croatia"> 
+      <title>Croatia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Croatia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Croatia</dc:coverage>
+      <dc:date>2011-01-05T06:13:54Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2011-01-05T06:13:54Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T06:13:54Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Croatia</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Libya"> 
+      <title>Libya</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Libya</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It includes new information under Local Laws (legal implications of criticising the Libyan leader, Islam or Jamahiriya state system).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Libya</dc:coverage>
+      <dc:date>2011-01-05T06:08:48Z</dc:date>
+      <dcterms:created>2001-09-20T09:55:38Z</dcterms:created>
+      <dcterms:issued>2011-01-05T06:08:48Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-05T06:08:48Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Libya</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Niger, Chad and Sudan</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Netherlands"> 
+      <title>Netherlands</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Netherlands</link>
+
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Netherlands</dc:coverage>
+      <dc:date>2011-01-05T05:47:30Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2011-01-05T05:47:30Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-05T05:47:30Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Netherlands</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Taiwan"> 
+      <title>Taiwan</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Taiwan</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Taiwan</dc:coverage>
+      <dc:date>2011-01-05T05:43:11Z</dc:date>
+      <dcterms:created>2002-09-10T07:56:40Z</dcterms:created>
+
+      <dcterms:issued>2011-01-05T05:43:11Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T05:43:11Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Taiwan</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Czech_Republic"> 
+      <title>Czech Republic</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Czech_Republic</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Czech Republic</dc:coverage>
+
+      <dc:date>2011-01-05T05:38:09Z</dc:date>
+      <dcterms:created>2002-05-21T04:35:18Z</dcterms:created>
+      <dcterms:issued>2011-01-05T05:38:09Z</dcterms:issued>
+      <dcterms:modified>2011-01-05T05:38:09Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Czech Republic</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Germany"> 
+      <title>Germany</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Germany</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Germany</dc:coverage>
+      <dc:date>2010-12-31T02:33:56Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-31T02:33:56Z</dcterms:issued>
+      <dcterms:modified>2010-12-31T02:33:56Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Germany</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vietnam"> 
+      <title>Vietnam</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Vietnam</link>
+      <description>
+    This advice has been reviewed and reissued.   The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Vietnam</dc:coverage>
+      <dc:date>2010-12-31T01:58:44Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-12-31T01:58:44Z</dcterms:issued>
+      <dcterms:modified>2010-12-31T01:58:44Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Vietnam</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/India"> 
+      <title>India</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/India</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary under Safety and Security: Terrorism (Indian Government warning of possible terrorist activity in major Indian cities).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>India</dc:coverage>
+
+      <dc:date>2010-12-30T11:35:34Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-30T11:35:34Z</dcterms:issued>
+      <dcterms:modified>2010-12-30T11:35:34Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>India</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Jammu and Kashmir</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>North-eastern states of  Assam, Nagaland, Tripura and  Manipur</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Italy"> 
+      <title>Italy</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Italy</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (parcel bomb explosions in Rome on 23 December 2010).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Italy</dc:coverage>
+      <dc:date>2010-12-24T02:20:48Z</dc:date>
+
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-24T02:20:48Z</dcterms:issued>
+      <dcterms:modified>2010-12-24T02:20:48Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Italy</dc:coverage>
+        <ta:level>2/5</ta:level>
+
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uganda"> 
+      <title>Uganda</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uganda</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (Police warnings of militant groups planning attacks), Civil Unrest/Political Tension (presidential and parliamentary elections) and Health Issues (disease outbreak in northern Uganda). The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Uganda</dc:coverage>
+      <dc:date>2010-12-23T04:11:19Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-23T04:11:19Z</dcterms:issued>
+      <dcterms:modified>2010-12-23T04:32:55Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Uganda</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Northern Uganda, including the Karamoja region, and areas bordering Sudan and the Democratic Republic of the Congo (DRC)</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Qatar"> 
+      <title>Qatar</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Qatar</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Local Travel (Asian Football Confederation Asian Cup). The overall level of the advice has not changed. 
+    </description>
+
+      <dc:coverage>Qatar</dc:coverage>
+      <dc:date>2010-12-22T04:36:27Z</dc:date>
+      <dcterms:created>2001-09-20T10:06:30Z</dcterms:created>
+      <dcterms:issued>2010-12-22T04:36:27Z</dcterms:issued>
+      <dcterms:modified>2010-12-22T04:36:27Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Qatar</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belarus"> 
+      <title>Belarus</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belarus</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (protests around Presidential election on 19 December 2010).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Belarus</dc:coverage>
+      <dc:date>2010-12-21T06:23:53Z</dc:date>
+      <dcterms:created>2002-05-21T04:26:38Z</dcterms:created>
+      <dcterms:issued>2010-12-21T06:23:53Z</dcterms:issued>
+
+      <dcterms:modified>2010-12-21T06:23:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Belarus</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jordan"> 
+      <title>Jordan</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jordan</link>
+      <description>
+    This advice has been reviewed and reissued.   The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Jordan</dc:coverage>
+      <dc:date>2010-12-20T06:48:09Z</dc:date>
+      <dcterms:created>2000-10-10T06:14:50Z</dcterms:created>
+
+      <dcterms:issued>2010-12-20T06:48:09Z</dcterms:issued>
+      <dcterms:modified>2010-12-20T06:48:09Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Jordan</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Pakistan"> 
+      <title>Pakistan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Pakistan</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (updated information on places that could be attacked by terrorists and details of recent terrorist attacks) and under Health Issues (prophylaxis against mosquito-borne diseases).   The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Pakistan</dc:coverage>
+
+      <dc:date>2010-12-20T05:16:50Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-20T05:16:50Z</dcterms:issued>
+      <dcterms:modified>2011-01-23T23:28:33Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Pakistan</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Baluchistan, Federally-Administered Tribal Areas, border areas with Afghanistan and India</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Khyber-Pakhtunkhwa (formerly the North-West Frontier Province)</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Israel_Gaza_Strip_and_West_Bank"> 
+      <title>Israel, the Gaza Strip and the West Bank</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Israel_Gaza_Strip_and_West_Bank</link>
+      <description>
+    This advice has been reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Israel</dc:coverage>
+      <dc:date>2010-12-17T04:34:53Z</dc:date>
+
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-17T04:34:53Z</dcterms:issued>
+      <dcterms:modified>2010-12-17T04:34:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Israel</dc:coverage>
+        <ta:level>3/5</ta:level>
+
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Bethlehem, Ramallah and Jericho</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+
+            <dc:coverage>Gaza Strip, including surrounding areas, and remainder of the West Bank</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kuwait"> 
+      <title>Kuwait</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kuwait</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Local Travel (eligibility requirements for driver licences) and Local Laws (local requirements for the authentication of documents). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Kuwait</dc:coverage>
+      <dc:date>2010-12-17T01:04:34Z</dc:date>
+      <dcterms:created>2001-09-20T09:51:18Z</dcterms:created>
+
+      <dcterms:issued>2010-12-17T01:04:34Z</dcterms:issued>
+      <dcterms:modified>2010-12-17T01:04:34Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Kuwait</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cambodia"> 
+      <title>Cambodia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cambodia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information under Local Laws (child sex tourism warning) and Health Issues (counterfeit medication and mosquito-borne diseases). The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Cambodia</dc:coverage>
+
+      <dc:date>2010-12-15T05:41:29Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-15T05:41:29Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T07:11:41Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Cambodia</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sweden"> 
+      <title>Sweden</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sweden</link>
+      <description>
+
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (explosions in Stockholm).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Sweden</dc:coverage>
+      <dc:date>2010-12-15T05:39:11Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-15T05:39:11Z</dcterms:issued>
+      <dcterms:modified>2010-12-15T05:39:11Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Sweden</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Armenia"> 
+      <title>Armenia</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Armenia</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Armenia</dc:coverage>
+      <dc:date>2010-12-15T00:45:27Z</dc:date>
+      <dcterms:created>2001-09-20T09:46:11Z</dcterms:created>
+
+      <dcterms:issued>2010-12-15T00:45:27Z</dcterms:issued>
+      <dcterms:modified>2010-12-15T00:45:27Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Armenia</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Nagorno-Karabakh</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guatemala"> 
+      <title>Guatemala</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guatemala</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information under Safety and Security: Crime (tourist robberies in the central park of Quetzaltenango) and Local Travel (Highway RD-1 from Solola to Panajachel closed for repairs).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Guatemala</dc:coverage>
+      <dc:date>2010-12-15T00:14:44Z</dc:date>
+      <dcterms:created>2002-08-26T23:41:17Z</dcterms:created>
+
+      <dcterms:issued>2010-12-15T00:14:44Z</dcterms:issued>
+      <dcterms:modified>2010-12-15T00:14:44Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Guatemala</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Argentina"> 
+      <title>Argentina</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Argentina</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Entry and Exit Requirements (changes to reciprocal fee charged to Australian visitors).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Argentina</dc:coverage>
+
+      <dc:date>2010-12-15T00:11:20Z</dc:date>
+      <dcterms:created>2001-12-21T03:30:00Z</dcterms:created>
+      <dcterms:issued>2010-12-15T00:11:20Z</dcterms:issued>
+      <dcterms:modified>2010-12-15T00:11:20Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Argentina</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Honduras"> 
+      <title>Honduras</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Honduras</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It includes new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (political tensions remain high). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Honduras</dc:coverage>
+      <dc:date>2010-12-15T00:04:50Z</dc:date>
+      <dcterms:created>2002-08-26T04:55:41Z</dcterms:created>
+      <dcterms:issued>2010-12-15T00:04:50Z</dcterms:issued>
+      <dcterms:modified>2010-12-15T00:04:50Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Honduras</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Romania"> 
+      <title>Romania</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Romania</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Local Travel (breathalyser tests required at accidents).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Romania</dc:coverage>
+      <dc:date>2010-12-14T22:35:29Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2010-12-14T22:35:29Z</dcterms:issued>
+      <dcterms:modified>2010-12-14T22:35:29Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Romania</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guinea"> 
+      <title>Guinea</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guinea</link>
+      <description>
+    This advice has been reviewed and reissued.  It includes new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (state of emergency lifted).  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Guinea</dc:coverage>
+
+      <dc:date>2010-12-14T22:31:50Z</dc:date>
+      <dcterms:created>2001-06-04T23:44:29Z</dcterms:created>
+      <dcterms:issued>2010-12-14T22:31:50Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:19:37Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Guinea</dc:coverage>
+
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Denmark"> 
+      <title>Denmark</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Denmark</link>
+      <description>
+
+    This advice has been reviewed and reissued.    The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Denmark</dc:coverage>
+      <dc:date>2010-12-14T02:52:07Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-14T02:52:07Z</dcterms:issued>
+      <dcterms:modified>2010-12-14T02:52:07Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Denmark</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belize"> 
+      <title>Belize</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Belize</link>
+      <description>
+    The advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Belize</dc:coverage>
+      <dc:date>2010-12-14T02:43:38Z</dc:date>
+      <dcterms:created>2002-08-08T02:06:05Z</dcterms:created>
+
+      <dcterms:issued>2010-12-14T02:43:38Z</dcterms:issued>
+      <dcterms:modified>2010-12-14T02:43:38Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Belize</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Macau"> 
+      <title>Macau</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Macau</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Natural Disasters, Severe Weather and Climate (typhoon season). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Macau</dc:coverage>
+
+      <dc:date>2010-12-14T02:39:17Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-14T02:39:17Z</dcterms:issued>
+      <dcterms:modified>2010-12-14T02:39:17Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Macau</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Samoa"> 
+      <title>Samoa</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Samoa</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Samoa</dc:coverage>
+      <dc:date>2010-12-14T00:40:33Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-14T00:40:33Z</dcterms:issued>
+      <dcterms:modified>2010-12-14T00:40:33Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Samoa</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/France"> 
+      <title>France</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/France</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>France</dc:coverage>
+      <dc:date>2010-12-13T01:02:41Z</dc:date>
+      <dcterms:created>2001-12-20T05:23:35Z</dcterms:created>
+
+      <dcterms:issued>2010-12-13T01:02:41Z</dcterms:issued>
+      <dcterms:modified>2010-12-13T01:02:41Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>France</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guyana"> 
+      <title>Guyana</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Guyana</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Guyana</dc:coverage>
+
+      <dc:date>2010-12-13T00:54:18Z</dc:date>
+      <dcterms:created>2001-04-24T02:09:13Z</dcterms:created>
+      <dcterms:issued>2010-12-13T00:54:18Z</dcterms:issued>
+      <dcterms:modified>2010-12-13T00:54:18Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Guyana</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Benin"> 
+      <title>Benin</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Benin</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Benin</dc:coverage>
+      <dc:date>2010-12-09T04:52:18Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-09T04:52:18Z</dcterms:issued>
+      <dcterms:modified>2010-12-09T04:52:18Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Benin</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cuba"> 
+      <title>Cuba</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cuba</link>
+      <description>
+    The advice has been reviewed and reissued. It contains new information under Safety and Security: Airline Safety (Aerocaribbean crash). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Cuba</dc:coverage>
+      <dc:date>2010-12-09T04:51:32Z</dc:date>
+      <dcterms:created>2002-08-26T05:07:15Z</dcterms:created>
+
+      <dcterms:issued>2010-12-09T04:51:32Z</dcterms:issued>
+      <dcterms:modified>2010-12-09T04:51:32Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Cuba</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Dominican_Republic"> 
+      <title>Dominican Republic</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Dominican_Republic</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Health Issues (cholera).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Dominican Republic</dc:coverage>
+
+      <dc:date>2010-12-09T04:45:10Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-09T04:45:10Z</dcterms:issued>
+      <dcterms:modified>2010-12-09T04:45:10Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Dominican Republic</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/El_Salvador"> 
+      <title>El Salvador</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/El_Salvador</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>El Salvador</dc:coverage>
+      <dc:date>2010-12-09T04:37:48Z</dc:date>
+      <dcterms:created>2002-08-08T03:42:35Z</dcterms:created>
+      <dcterms:issued>2010-12-09T04:37:48Z</dcterms:issued>
+      <dcterms:modified>2010-12-09T04:37:48Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>El Salvador</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Syria"> 
+      <title>Syria</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Syria</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Syria</dc:coverage>
+      <dc:date>2010-12-07T00:36:51Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-12-07T00:36:51Z</dcterms:issued>
+      <dcterms:modified>2010-12-07T00:36:51Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Syria</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nepal"> 
+      <title>Nepal</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nepal</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Local Travel (Trekkers Information Management System).  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Nepal</dc:coverage>
+
+      <dc:date>2010-12-06T22:20:15Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-06T22:20:15Z</dcterms:issued>
+      <dcterms:modified>2010-12-21T06:00:03Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Nepal</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ecuador"> 
+      <title>Ecuador</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ecuador</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It includes new information in the Summary and under Safety and Security:  Natural Disasters, Severe Weather and Climate (do not travel to the area surrounding Tungurahua volcano, including Ba?os).  The overall level of the advice remains at High degree of caution. 
+    </description>
+      <dc:coverage>Ecuador</dc:coverage>
+      <dc:date>2010-12-06T05:04:40Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-06T05:04:40Z</dcterms:issued>
+      <dcterms:modified>2010-12-06T05:04:40Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Ecuador</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Area surrounding Tungurahua volcano, including Ba?os</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Carchi, Orellana, Sucumbios and Napo provinces in north-eastern Ecuador, and Antennas of Volcan Pinchincha </dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Venezuela"> 
+      <title>Venezuela</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Venezuela</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Natural Disasters, Severe Weather and Climate (state of emergency declared due to heavy rains and flooding). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Venezuela</dc:coverage>
+
+      <dc:date>2010-12-03T03:38:29Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-03T03:38:29Z</dcterms:issued>
+      <dcterms:modified>2010-12-03T03:38:29Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Venezuela</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Colombia (within 80kms)</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bangladesh"> 
+      <title>Bangladesh</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bangladesh</link>
+      <description>
+    This advice has been reviewed and reissued.  The level of the advice has not changed.
+    </description>
+      <dc:coverage>Bangladesh</dc:coverage>
+
+      <dc:date>2010-12-02T23:53:34Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-02T23:53:34Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T06:53:45Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Bangladesh</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Chittagong Hill Tracts region</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Arab_Emirates"> 
+      <title>United Arab Emirates</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_Arab_Emirates</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Crime (harassment against women) and Money and Valuables (passports).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>United Arab Emirates</dc:coverage>
+
+      <dc:date>2010-12-01T05:40:29Z</dc:date>
+      <dcterms:created>2001-09-20T10:10:19Z</dcterms:created>
+      <dcterms:issued>2010-12-01T05:40:29Z</dcterms:issued>
+      <dcterms:modified>2010-12-01T05:40:29Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>United Arab Emirates</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Peru"> 
+      <title>Peru</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Peru</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Health Issues (altitude sickness).   The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Peru</dc:coverage>
+      <dc:date>2010-12-01T03:09:54Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-12-01T03:09:54Z</dcterms:issued>
+      <dcterms:modified>2010-12-01T03:09:54Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Peru</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Areas bordering Colombia and Ecuador (other than official border crossings)</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lithuania"> 
+      <title>Lithuania</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lithuania</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Lithuania</dc:coverage>
+      <dc:date>2010-12-01T03:03:12Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-12-01T03:03:12Z</dcterms:issued>
+      <dcterms:modified>2010-12-01T03:03:12Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Lithuania</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkmenistan"> 
+      <title>Turkmenistan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkmenistan</link>
+
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Turkmenistan</dc:coverage>
+      <dc:date>2010-11-30T23:50:18Z</dc:date>
+      <dcterms:created>2001-12-20T05:34:34Z</dcterms:created>
+      <dcterms:issued>2010-11-30T23:50:18Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-30T23:50:18Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Turkmenistan</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Turkmenistan/Afghanistan Border</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Rwanda"> 
+      <title>Rwanda</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Rwanda</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Crime (increased reports of residential theft), Natural Disasters, Severe Weather and Climate (heavy rains), and Local Laws (plastic bags prohibited).  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Rwanda</dc:coverage>
+      <dc:date>2010-11-30T23:45:49Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-30T23:45:49Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-30T23:45:49Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Rwanda</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border with Burundi</dc:coverage>
+
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Border with the Democratic Republic of the Congo</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Angola"> 
+      <title>Angola</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Angola</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has been lowered to High degree of caution.
+    </description>
+      <dc:coverage>Angola</dc:coverage>
+
+      <dc:date>2010-11-30T03:59:16Z</dc:date>
+      <dcterms:created>2000-08-01T12:00:0 +10000</dcterms:created>
+      <dcterms:issued>2010-11-30T03:59:16Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T06:08:15Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Angola</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Cabinda, North Lunda and South Lunda</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ukraine"> 
+      <title>Ukraine</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ukraine</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Ukraine</dc:coverage>
+
+      <dc:date>2010-11-29T02:55:45Z</dc:date>
+      <dcterms:created>2002-05-21T04:32:16Z</dcterms:created>
+      <dcterms:issued>2010-11-29T02:55:45Z</dcterms:issued>
+      <dcterms:modified>2010-11-29T02:55:45Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Ukraine</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Panama"> 
+      <title>Panama</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Panama</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Panama</dc:coverage>
+      <dc:date>2010-11-29T01:00:28Z</dc:date>
+      <dcterms:created>2002-08-26T04:48:43Z</dcterms:created>
+      <dcterms:issued>2010-11-29T01:00:28Z</dcterms:issued>
+      <dcterms:modified>2010-11-29T01:00:28Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Panama</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Darien Gap beyond Yaviza</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Finland"> 
+      <title>Finland</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Finland</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Finland</dc:coverage>
+      <dc:date>2010-11-29T00:54:54Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-29T00:54:54Z</dcterms:issued>
+      <dcterms:modified>2010-11-29T00:54:54Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Finland</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/North_Korea"> 
+      <title>Democratic People's Republic of Korea</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/North_Korea</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Civil Unrest/Political Tension (exchange of artillery fire with ROK).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Democratic People's Republic of Korea</dc:coverage>
+      <dc:date>2010-11-27T01:21:06Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-27T01:21:06Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-27T01:21:06Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Democratic People's Republic of Korea</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Korea"> 
+      <title>Republic of Korea</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/South_Korea</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Civil Unrest/Political Tension (exchange of artillery fire with DPRK). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Republic of Korea</dc:coverage>
+      <dc:date>2010-11-27T01:17:18Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2010-11-27T01:17:18Z</dcterms:issued>
+      <dcterms:modified>2010-11-28T02:20:12Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Republic of Korea</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burma"> 
+      <title>Burma</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burma</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Natural Disasters, Severe Weather and Climate (tropical cyclones) and Entry and Exit Requirements (departure tax).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Burma</dc:coverage>
+
+      <dc:date>2010-11-22T04:48:18Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-22T04:48:18Z</dcterms:issued>
+      <dcterms:modified>2010-11-22T06:42:44Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Burma</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Areas bordering China, Laos and Thailand</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gambia"> 
+      <title>The Gambia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Gambia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Gambia</dc:coverage>
+
+      <dc:date>2010-11-22T04:03:10Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-22T04:03:10Z</dcterms:issued>
+      <dcterms:modified>2010-11-22T04:03:10Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Gambia</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Overland travel through the Casamance region in southern Senegal</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mozambique"> 
+      <title>Mozambique</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Mozambique</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Where to Get Help (Honorary Consul contact details).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Mozambique</dc:coverage>
+
+      <dc:date>2010-11-22T03:58:45Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-22T03:58:45Z</dcterms:issued>
+      <dcterms:modified>2010-11-22T03:58:45Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Mozambique</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Namibia"> 
+      <title>Namibia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Namibia</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Namibia</dc:coverage>
+      <dc:date>2010-11-19T06:55:15Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-19T06:55:15Z</dcterms:issued>
+      <dcterms:modified>2010-11-19T06:55:15Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Namibia</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lesotho"> 
+      <title>Lesotho</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Lesotho</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Lesotho</dc:coverage>
+      <dc:date>2010-11-19T06:52:08Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-11-19T06:52:08Z</dcterms:issued>
+      <dcterms:modified>2010-11-19T06:52:08Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Lesotho</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Madagascar"> 
+      <title>Madagascar</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Madagascar</link>
+      <description>
+    This advice has been reviewed and reissued.  It includes new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (attempted military coup).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Madagascar</dc:coverage>
+
+      <dc:date>2010-11-19T06:44:43Z</dc:date>
+      <dcterms:created>2002-02-11T02:11:24Z</dcterms:created>
+      <dcterms:issued>2010-11-19T06:44:43Z</dcterms:issued>
+      <dcterms:modified>2010-11-19T06:44:43Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Madagascar</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Morocco"> 
+      <title>Morocco</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Morocco</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Morocco</dc:coverage>
+      <dc:date>2010-11-17T00:01:13Z</dc:date>
+      <dcterms:created>2001-09-20T10:02:41Z</dcterms:created>
+      <dcterms:issued>2010-11-17T00:01:13Z</dcterms:issued>
+      <dcterms:modified>2010-11-17T00:01:13Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Morocco</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Western Sahara</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jamaica"> 
+      <title>Jamaica</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Jamaica</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.   
+    </description>
+
+      <dc:coverage>Jamaica</dc:coverage>
+      <dc:date>2010-11-16T21:43:46Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-16T21:43:46Z</dcterms:issued>
+      <dcterms:modified>2010-11-16T21:43:46Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Jamaica</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Trinidad_and_Tobago"> 
+      <title>Trinidad and Tobago</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Trinidad_and_Tobago</link>
+
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Trinidad and Tobago</dc:coverage>
+      <dc:date>2010-11-16T21:34:53Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-16T21:34:53Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-16T21:34:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Trinidad and Tobago</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bosnia_and_Herzegovina"> 
+      <title>Bosnia and Herzegovina</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bosnia_and_Herzegovina</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information under Money and Valuables (update).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Bosnia and Herzegovina</dc:coverage>
+      <dc:date>2010-11-16T04:32:03Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-11-16T04:32:03Z</dcterms:issued>
+      <dcterms:modified>2010-11-16T04:32:03Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Bosnia and Herzegovina</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malta"> 
+      <title>Malta</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Malta</link>
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Malta</dc:coverage>
+
+      <dc:date>2010-11-16T04:25:24Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-16T04:25:24Z</dcterms:issued>
+      <dcterms:modified>2010-11-16T04:25:24Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Malta</dc:coverage>
+
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burundi"> 
+      <title>Burundi</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burundi</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It includes new information under Safety and Security: Terrorism (locations that may be targeted for attack).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Burundi</dc:coverage>
+      <dc:date>2010-11-12T05:03:06Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-12T05:03:06Z</dcterms:issued>
+      <dcterms:modified>2010-11-12T05:03:06Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Burundi</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Bujumbura, the captial of Burundi</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kosovo"> 
+      <title>Kosovo</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kosovo</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Civil Unrest/Political Tension (civil unrest in September and October 2010), Money and Valuables (update) and Health Issues (Crimean Congo Haemorrhagic Fever update).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Kosovo</dc:coverage>
+      <dc:date>2010-11-12T02:37:26Z</dc:date>
+      <dcterms:created>2008-02-25T07:32:35Z</dcterms:created>
+      <dcterms:issued>2010-11-12T02:37:26Z</dcterms:issued>
+      <dcterms:modified>2010-11-12T02:37:26Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Kosovo</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Leposavic, Zubin Potok and Zvecan municipalities and North Mitrovica</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Oman"> 
+      <title>Oman</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Oman</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Oman</dc:coverage>
+      <dc:date>2010-11-11T04:48:37Z</dc:date>
+      <dcterms:created>2001-09-20T10:04:49Z</dcterms:created>
+      <dcterms:issued>2010-11-11T04:48:37Z</dcterms:issued>
+      <dcterms:modified>2010-11-11T04:48:37Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Oman</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iran"> 
+      <title>Iran</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iran</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (bombings in the border areas of Sistan-va-Baluchistan and West Azerbaijan provinces). The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Iran</dc:coverage>
+      <dc:date>2010-11-11T03:20:46Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-11T03:20:46Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-11T03:20:46Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Iran</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Afghanistan, Pakistan and Iraq</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Norway"> 
+      <title>Norway</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Norway</link>
+
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Norway</dc:coverage>
+      <dc:date>2010-11-11T02:34:29Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-11T02:34:29Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-11T02:34:29Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Norway</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Papua_New_Guinea"> 
+      <title>Papua New Guinea</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Papua_New_Guinea</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Papua New Guinea</dc:coverage>
+      <dc:date>2010-11-11T01:24:08Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-11-11T01:24:08Z</dcterms:issued>
+      <dcterms:modified>2011-01-03T06:28:58Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Papua New Guinea</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_States_of_America"> 
+      <title>United States of America</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/United_States_of_America</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Crime (crime statistics), Local Laws (detention and deportation statistics), and Health Issues (link to United States Centers of Disease Control and Prevention website). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>United States of America</dc:coverage>
+
+      <dc:date>2010-11-09T23:10:07Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-09T23:10:07Z</dcterms:issued>
+      <dcterms:modified>2010-12-01T02:56:27Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>United States of America</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkey"> 
+      <title>Turkey</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Turkey</link>
+      <description>
+
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (terrorist attack in Taksim Square in Istanbul). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Turkey</dc:coverage>
+      <dc:date>2010-11-08T04:31:41Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-08T04:31:41Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:31:39Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Turkey</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Borders with Syria, Iraq and Iran</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Suriname"> 
+      <title>Suriname</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Suriname</link>
+      <description>
+    This advice has been reviewed and reissued.    The overall level of the advice has not changed. 
+    </description>
+
+      <dc:coverage>Suriname</dc:coverage>
+      <dc:date>2010-11-04T22:31:07Z</dc:date>
+      <dcterms:created>2001-04-19T00:01:24Z</dcterms:created>
+      <dcterms:issued>2010-11-04T22:31:07Z</dcterms:issued>
+      <dcterms:modified>2010-11-04T22:31:07Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Suriname</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saint_Lucia"> 
+      <title>Saint Lucia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saint_Lucia</link>
+
+      <description>
+    Tropical Storm Tomas caused severe destruction and damage in St Lucia on 30 October 2010. Damage to infrastructure and fresh water supplies has been reported in the Soufri?re region in the southern part of the island.
+    </description>
+      <dc:coverage>Saint Lucia</dc:coverage>
+      <dc:date>2010-11-03T06:40:10Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-03T06:40:10Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-03T06:40:10Z</dcterms:modified>
+      </item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Canada"> 
+      <title>Canada</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Canada</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Health Issues (provincially run health care systems are not easily accessible to temporary visitors).  The overall level of the advice has not changed. 
+    </description>
+
+      <dc:coverage>Canada</dc:coverage>
+      <dc:date>2010-11-03T05:50:04Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-11-03T05:50:04Z</dcterms:issued>
+      <dcterms:modified>2010-11-03T05:50:04Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Canada</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saudi_Arabia"> 
+      <title>Saudi Arabia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Saudi_Arabia</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It includes new information in the Summary (Hajj 2010 travel bulletin), and under Safety and Security: Local Travel (Hajj). The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Saudi Arabia</dc:coverage>
+      <dc:date>2010-11-02T06:11:01Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-02T06:11:01Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-17T13:26:43Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Saudi Arabia</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zambia"> 
+      <title>Zambia</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zambia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information under Entry and Exit Requirements (be careful using immigration agents).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Zambia</dc:coverage>
+      <dc:date>2010-11-02T05:48:28Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-11-02T05:48:28Z</dcterms:issued>
+      <dcterms:modified>2010-11-02T05:48:28Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Zambia</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Border areas with the Democratic Republic of Congo, Angola and Mozambique</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tajikistan"> 
+      <title>Tajikistan</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tajikistan</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Terrorism (update) and Where to Get Help (United Kingdom Embassy contact removed).  The overall level of the advice has not changed. The Rasht Valley has been added to the list of Reconsider you need to travel regions.
+    </description>
+      <dc:coverage>Tajikistan</dc:coverage>
+      <dc:date>2010-11-02T00:31:34Z</dc:date>
+      <dcterms:created>2001-10-10T06:30:53Z</dcterms:created>
+
+      <dcterms:issued>2010-11-02T00:31:34Z</dcterms:issued>
+      <dcterms:modified>2010-11-02T00:31:34Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Tajikistan</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Border regions with Kyrgyzstan, Uzbekistan and Afghanistan</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Rasht Valley</dc:coverage>
+
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sierra_Leone"> 
+      <title>Sierra Leone</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Sierra_Leone</link>
+
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Sierra Leone</dc:coverage>
+      <dc:date>2010-11-02T00:10:53Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-11-02T00:10:53Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-02T00:10:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Sierra Leone</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Liberia and Guinea</dc:coverage>
+
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Latvia"> 
+      <title>Latvia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Latvia</link>
+
+      <description>
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Latvia</dc:coverage>
+      <dc:date>2010-11-02T00:05:48Z</dc:date>
+      <dcterms:created>2002-04-22T23:59:04Z</dcterms:created>
+      <dcterms:issued>2010-11-02T00:05:48Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-02T00:05:48Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Latvia</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Estonia"> 
+      <title>Estonia</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Estonia</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Estonia</dc:coverage>
+      <dc:date>2010-11-02T00:03:12Z</dc:date>
+      <dcterms:created>2002-02-15T06:19:22Z</dcterms:created>
+
+      <dcterms:issued>2010-11-02T00:03:12Z</dcterms:issued>
+      <dcterms:modified>2010-11-02T00:03:12Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Estonia</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uzbekistan"> 
+      <title>Uzbekistan</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Uzbekistan</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed. 
+    </description>
+      <dc:coverage>Uzbekistan</dc:coverage>
+
+      <dc:date>2010-11-01T03:33:23Z</dc:date>
+      <dcterms:created>2001-12-16T23:02:47Z</dcterms:created>
+      <dcterms:issued>2010-11-01T03:33:23Z</dcterms:issued>
+      <dcterms:modified>2010-11-01T03:33:23Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Uzbekistan</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Andijan and the eastern region of the Ferghana Valley; Regions bordering Tajikistan, Kyrgyz Republic and Afghanistan</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brunei_Darussalam"> 
+      <title>Brunei Darussalam</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Brunei_Darussalam</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Brunei Darussalam</dc:coverage>
+
+      <dc:date>2010-10-26T00:40:23Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-10-26T00:40:23Z</dcterms:issued>
+      <dcterms:modified>2010-10-26T00:40:23Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Brunei Darussalam</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hong_Kong"> 
+      <title>Hong Kong</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Hong_Kong</link>
+      <description>
+
+    This advice has been reviewed and reissued.  It contains new information in the Summary (typhoon season).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Hong Kong</dc:coverage>
+      <dc:date>2010-10-22T02:16:53Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-10-22T02:16:53Z</dcterms:issued>
+      <dcterms:modified>2010-10-22T02:16:53Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Hong Kong</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/General"> 
+      <title>General Advice to Australian Travellers</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/General</link>
+      <description>
+    This advice has been reviewed and reissued.  
+    </description>
+      <dc:coverage>Global</dc:coverage>
+      <dc:date>2010-10-21T05:44:14Z</dc:date>
+      <dcterms:created>2001-09-14T07:03:55Z</dcterms:created>
+
+      <dcterms:issued>2010-10-21T05:44:14Z</dcterms:issued>
+      <dcterms:modified>2010-12-17T00:45:05Z</dcterms:modified>
+      </item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ireland"> 
+      <title>Ireland</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ireland</link>
+      <description>
+
+    This advice has been reviewed and reissued. The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Ireland</dc:coverage>
+      <dc:date>2010-10-20T23:06:56Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-10-20T23:06:56Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:30Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Ireland</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Senegal"> 
+      <title>Senegal</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Senegal</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Senegal</dc:coverage>
+      <dc:date>2010-10-20T03:47:03Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-10-20T03:47:03Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:38Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Senegal</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Casamance region of southern Senegal</dc:coverage>
+            <ta:level>4/5</ta:level>
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kyrgyz_Republic"> 
+      <title>Kyrgyz Republic</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Kyrgyz_Republic</link>
+      <description>
+    This advice has been reviewed and reissued.  It includes new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (update).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Kyrgyz Republic</dc:coverage>
+      <dc:date>2010-10-13T23:49:43Z</dc:date>
+      <dcterms:created>2001-12-16T23:04:52Z</dcterms:created>
+
+      <dcterms:issued>2010-10-13T23:49:43Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:31Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Kyrgyz Republic</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zimbabwe"> 
+      <title>Zimbabwe</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Zimbabwe</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Crime (criminals slashing the tyres of cars).  The overall level of the advice has remained the same.
+    </description>
+      <dc:coverage>Zimbabwe</dc:coverage>
+
+      <dc:date>2010-10-12T00:49:38Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-10-12T00:49:38Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:43Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Zimbabwe</dc:coverage>
+
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Albania"> 
+      <title>Albania</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Albania</link>
+      <description>
+
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Albania</dc:coverage>
+      <dc:date>2010-10-08T01:40:41Z</dc:date>
+      <dcterms:created>2000-01-08T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-10-08T01:40:41Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:10:56Z</dcterms:modified>
+
+      
+      <ta:warnings>
+        <dc:coverage>Albania</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>North east region bordering Kosovo</dc:coverage>
+            <ta:level>4/5</ta:level>
+
+            <dc:description>Reconsider your need to travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Thailand"> 
+      <title>Thailand</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Thailand</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Civil Unrest/Political Tension (lifting of state of emergency in place since April 2010).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Thailand</dc:coverage>
+      <dc:date>2010-10-06T23:38:45Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-10-06T23:38:45Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:29:38Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Thailand</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Yala, Pattani, Narathiwat and Songkhla</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Portugal"> 
+      <title>Portugal</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Portugal</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (US Travel Alert for European countries). The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Portugal</dc:coverage>
+      <dc:date>2010-10-04T12:14:27Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-10-04T12:14:27Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:37Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Portugal</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Moldova"> 
+      <title>Moldova</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Moldova</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (US Travel Alert for European countries). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Moldova</dc:coverage>
+      <dc:date>2010-10-04T12:09:24Z</dc:date>
+      <dcterms:created>2001-12-16T23:07:05Z</dcterms:created>
+      <dcterms:issued>2010-10-04T12:09:24Z</dcterms:issued>
+
+      <dcterms:modified>2010-10-25T06:44:34Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Moldova</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+        <ta:warning>
+            <dc:coverage>Transnistria</dc:coverage>
+
+            <ta:level>2/5</ta:level>
+            <dc:description>Exercise caution</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Greece"> 
+      <title>Greece</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Greece</link>
+
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (US Travel Alert for European countries). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Greece</dc:coverage>
+      <dc:date>2010-10-04T12:03:19Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-10-04T12:03:19Z</dcterms:issued>
+
+      <dcterms:modified>2010-10-25T06:44:28Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Greece</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/FYROM"> 
+      <title>The former Yugoslav Republic of Macedonia</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/FYROM</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (US Travel Alert for European countries). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>The former Yugoslav Republic of Macedonia</dc:coverage>
+      <dc:date>2010-10-04T11:59:45Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+
+      <dcterms:issued>2010-10-04T11:59:45Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:26Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>The former Yugoslav Republic of Macedonia</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>North west region bordering Kosovo</dc:coverage>
+            <ta:level>3/5</ta:level>
+            <dc:description>High degree of caution</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Austria"> 
+      <title>Austria</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Austria</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (US Travel Alert for European countries). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Austria</dc:coverage>
+      <dc:date>2010-10-04T10:36:20Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2010-10-04T10:36:20Z</dcterms:issued>
+      <dcterms:modified>2010-10-26T07:04:26Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Austria</dc:coverage>
+        <ta:level>1/5</ta:level>
+        <dc:description>Be alert to own security</dc:description>
+
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bahrain"> 
+      <title>Bahrain</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Bahrain</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Bahrain</dc:coverage>
+
+      <dc:date>2010-10-01T05:45:27Z</dc:date>
+      <dcterms:created>2001-09-20T09:48:32Z</dcterms:created>
+      <dcterms:issued>2010-10-01T05:45:27Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:21Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Bahrain</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/shipping_and_ports"> 
+      <title>Travelling by Sea</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/shipping_and_ports</link>
+      <description>
+
+    
+    </description>
+      <dc:coverage>Global</dc:coverage>
+      <dc:date>2010-09-29T22:33:25Z</dc:date>
+      <dcterms:created>2005-09-13T06:17:21Z</dcterms:created>
+      <dcterms:issued>2010-09-29T22:33:25Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:23:51Z</dcterms:modified>
+
+      </item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/China"> 
+      <title>China</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/China</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>China</dc:coverage>
+
+      <dc:date>2010-09-17T07:44:46Z</dc:date>
+      <dcterms:created>2001-08-16T00:22:14Z</dcterms:created>
+      <dcterms:issued>2010-09-17T07:44:46Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T06:13:12Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>China</dc:coverage>
+
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Tibet</dc:coverage>
+            <ta:level>3/5</ta:level>
+            <dc:description>High degree of caution</dc:description>
+
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Xinjiang</dc:coverage>
+            <ta:level>3/5</ta:level>
+            <dc:description>High degree of caution</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Zealand"> 
+      <title>New Zealand</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/New_Zealand</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Natural Disasters, Severe Weather and Climate (update).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>New Zealand</dc:coverage>
+      <dc:date>2010-09-15T07:21:35Z</dc:date>
+
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-09-15T07:21:35Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:35Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>New Zealand</dc:coverage>
+        <ta:level>1/5</ta:level>
+
+        <dc:description>Be alert to own security</dc:description>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Somalia"> 
+      <title>Somalia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Somalia</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Terrorism (increase in major terrorist attacks in Somalia in 2010) and Civil Unrest/Political Tension (continuing very high threat of kidnapping and heavy fighting in Mogadishu in late August 2010).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Somalia</dc:coverage>
+      <dc:date>2010-08-27T10:17:05Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-08-27T10:17:05Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:27:58Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Somalia</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Liberia"> 
+      <title>Liberia</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Liberia</link>
+
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Liberia</dc:coverage>
+      <dc:date>2010-08-23T03:03:40Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-08-23T03:03:40Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-17T13:22:40Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Liberia</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ghana"> 
+      <title>Ghana</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Ghana</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Ghana</dc:coverage>
+      <dc:date>2010-08-23T03:00:44Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+
+      <dcterms:issued>2010-08-23T03:00:44Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:28Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Ghana</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+        <ta:warning>
+            <dc:coverage>Bawku, Tamale municipality, Yendi District and Bimbilla area in northern Ghana</dc:coverage>
+            <ta:level>3/5</ta:level>
+            <dc:description>High degree of caution</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Swaziland"> 
+      <title>Swaziland</title>
+
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Swaziland</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Swaziland</dc:coverage>
+      <dc:date>2010-08-18T03:53:06Z</dc:date>
+      <dcterms:created>2001-05-30T03:45:02Z</dcterms:created>
+
+      <dcterms:issued>2010-08-18T03:53:06Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:40Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Swaziland</dc:coverage>
+        <ta:level>2/5</ta:level>
+        <dc:description>Exercise caution</dc:description>
+
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burkina_Faso"> 
+      <title>Burkina Faso</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Burkina_Faso</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Where to get help (change of address for the Canadian Embassy, which provides consular assistance to Australians). The overall level of the advice has not changed.  
+    </description>
+      <dc:coverage>Burkina Faso</dc:coverage>
+
+      <dc:date>2010-07-30T01:15:32Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-07-30T01:15:32Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:23Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Burkina Faso</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border regions with Mali and Niger</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cameroon"> 
+      <title>Cameroon</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Cameroon</link>
+      <description>
+    This advice has been reviewed and reissued.  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Cameroon</dc:coverage>
+
+      <dc:date>2010-07-19T04:32:47Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2010-07-19T04:32:47Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T06:44:23Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Cameroon</dc:coverage>
+
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Eastern Provinces, Border area with the Central African Republic and the Lake Chad region</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+
+        </ta:warning>
+        <ta:warning>
+            <dc:coverage>Border area with Nigeria in the region of the Bakassi Peninsula</dc:coverage>
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Singapore"> 
+      <title>Singapore</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Singapore</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Civil Unrest/Political Tension (update), Crime (rental scams), and Local Laws (update on drug possession, offences against modesty).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Singapore</dc:coverage>
+      <dc:date>2010-06-22T23:01:13Z</dc:date>
+
+      <dcterms:created>2002-07-08T00:13:33Z</dcterms:created>
+      <dcterms:issued>2010-06-22T23:01:13Z</dcterms:issued>
+      <dcterms:modified>2010-11-25T03:49:27Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Singapore</dc:coverage>
+        <ta:level>2/5</ta:level>
+
+        <dc:description>Exercise caution</dc:description>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Eritrea"> 
+      <title>Eritrea</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Eritrea</link>
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Civil Unrest/Political Tension (UN sanctions against Eritrea and risk of violent protests) and Local Travel (Piracy).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Eritrea</dc:coverage>
+      <dc:date>2010-06-09T04:33:02Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-06-09T04:33:02Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T10:58:35Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Eritrea</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Regions bordering Ethiopia, Sudan and Djibouti</dc:coverage>
+            <ta:level>5/5</ta:level>
+
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iraq"> 
+      <title>Iraq</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Iraq</link>
+      <description>
+    This advice has been reviewed and reissued. It contains new information in the Summary and under Safety and Security: Terrorism (update), Airline Safety (travel between Abu Dhabi and Baghdad on Etihad Airways).  The overall level of the advice has not changed.
+    </description>
+
+      <dc:coverage>Iraq</dc:coverage>
+      <dc:date>2010-06-07T03:38:42Z</dc:date>
+      <dcterms:created>2000-08-01T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-06-07T03:38:42Z</dcterms:issued>
+      <dcterms:modified>2011-01-17T13:20:35Z</dcterms:modified>
+      
+      <ta:warnings>
+
+        <dc:coverage>Iraq</dc:coverage>
+        <ta:level>5/5</ta:level>
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Democratic_Republic_of_the_Congo"> 
+      <title>Democratic Republic of the Congo</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Democratic_Republic_of_the_Congo</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Civil Unrest/Political Tension (update), Local Laws (curfews) and Dual Nationals (update).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Democratic Republic of the Congo</dc:coverage>
+      <dc:date>2010-05-17T23:49:24Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-05-17T23:49:24Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-17T07:17:09Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Democratic Republic of the Congo</dc:coverage>
+        <ta:level>4/5</ta:level>
+        <dc:description>Reconsider your need to travel</dc:description>
+        <ta:warning>
+            <dc:coverage>Eastern, north-eastern and Bas-Congo areas </dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tanzania"> 
+      <title>Tanzania</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Tanzania</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information in the Summary and under Safety and Security: Civil Unrest/Political Tension (election-related unrest).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Tanzania</dc:coverage>
+      <dc:date>2010-03-25T00:47:42Z</dc:date>
+      <dcterms:created>2000-08-02T02:00:00Z</dcterms:created>
+      <dcterms:issued>2010-03-25T00:47:42Z</dcterms:issued>
+
+      <dcterms:modified>2010-11-11T22:23:57Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Tanzania</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border areas with Rwanda, Burundi and the Democratic Republic of the Congo</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Djibouti"> 
+      <title>Djibouti</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Djibouti</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Local Travel (piracy during 2009). The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Djibouti</dc:coverage>
+      <dc:date>2010-03-22T05:16:52Z</dc:date>
+      <dcterms:created>2001-06-04T23:42:06Z</dcterms:created>
+      <dcterms:issued>2010-03-22T05:16:52Z</dcterms:issued>
+
+      <dcterms:modified>2011-01-17T07:23:45Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Djibouti</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>Border with Eritrea</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nicaragua"> 
+      <title>Nicaragua</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Nicaragua</link>
+
+      <description>
+    This advice has been reviewed and reissued.  It contains new information under Safety and Security: Crime (attacks on vehicles along highways).  The overall level of the advice has not changed.
+    </description>
+      <dc:coverage>Nicaragua</dc:coverage>
+      <dc:date>2010-01-25T00:30:18Z</dc:date>
+      <dcterms:created>2002-08-26T04:39:38Z</dcterms:created>
+      <dcterms:issued>2010-01-25T00:30:18Z</dcterms:issued>
+
+      <dcterms:modified>2010-10-25T06:44:35Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Nicaragua</dc:coverage>
+        <ta:level>3/5</ta:level>
+        <dc:description>High degree of caution</dc:description>
+        <ta:warning>
+            <dc:coverage>North Atlantic Autonomous Region/northeastern Nicaragua and remote areas of Nicaraguan Caribbean Coast</dc:coverage>
+
+            <ta:level>5/5</ta:level>
+            <dc:description>Do not travel</dc:description>
+        </ta:warning>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Puerto_Rico"> 
+      <title>Puerto Rico</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Puerto_Rico</link>
+
+      <description>
+    The Department of Foreign Affairs and Trade does not issue a travel advice for Puerto Rico at this time.
+    </description>
+      <dc:coverage>Puerto Rico</dc:coverage>
+      <dc:date>2009-07-07T06:22:13Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2009-07-07T06:22:13Z</dcterms:issued>
+
+      <dcterms:modified>2010-10-25T05:10:17Z</dcterms:modified>
+      </item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Seychelles"> 
+      <title>Seychelles</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Seychelles</link>
+      <description>
+    The Department of Foreign Affairs and Trade does not issue a travel advice for Seychelles at this time.  
+    </description>
+
+      <dc:coverage>Seychelles</dc:coverage>
+      <dc:date>2009-06-25T05:23:02Z</dc:date>
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2009-06-25T05:23:02Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T05:10:24Z</dcterms:modified>
+      </item>
+
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chad"> 
+      <title>Chad</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Chad</link>
+      <description>
+    The Department of Foreign Affairs and Trade does not issue a travel advice for Chad at this time.  However, we strongly advise that you do not travel to Chad due to the volatile security situation, ongoing civil unrest and the threat of terrorism.
+    </description>
+      <dc:coverage>Chad</dc:coverage>
+      <dc:date>2009-04-23T04:44:54Z</dc:date>
+
+      <dcterms:created>2002-09-04T06:03:16Z</dcterms:created>
+      <dcterms:issued>2009-04-23T04:44:54Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T05:08:53Z</dcterms:modified>
+      
+      <ta:warnings>
+        <dc:coverage>Chad</dc:coverage>
+        <ta:level>5/5</ta:level>
+
+        <dc:description>Do not travel</dc:description>
+      </ta:warnings></item>
+    
+    
+    <item rdf:about="http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Montenegro"> 
+      <title>Montenegro</title>
+      <link>http://www.smarttraveller.gov.au/zw-cgi/view/Advice/Montenegro</link>
+      <description>
+    The Department of Foreign Affairs and Trade does not issue a travel advice for Montenegro at this time.
+    </description>
+
+      <dc:coverage>Montengro</dc:coverage>
+      <dc:date>2009-02-05T05:10:45Z</dc:date>
+      <dcterms:created>2006-06-28T01:22:00Z</dcterms:created>
+      <dcterms:issued>2009-02-05T05:10:45Z</dcterms:issued>
+      <dcterms:modified>2010-10-25T05:09:58Z</dcterms:modified>
+      </item>
+
+    
+    
+</rdf:RDF>

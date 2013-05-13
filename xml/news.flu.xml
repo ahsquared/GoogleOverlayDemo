@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <pubDate>Wed, 29 Sep 2010 19:30:00 EDT</pubDate> 
+  <title>Flu.gov RSS Feed for News Releases</title> 
+  <description>Welcome to the PandemicFlu.gov RSS news feed provided by the Department of Health and Human Services.</description> 
+  <link>http://www.flu.gov</link> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" 
+href="http://www.flu.gov/rss/pandemicflu/news.xml" type="application/rss+xml" /> 
+  <category>News</category>
+  <language>en-us</language>
+
+<item>
+  <title>Pandemic Influenza Evaluation and Capacity Review Tools </title> 
+  <description>Flu surveillance, laboratory testing and inventory tools for use by Centers for Disease Control and Prevention (CDC) international partners and collaborating countries.</description> 
+  <link>http://www.flu.gov/professional/global/intltools.html</link> 
+  <guid>http://www.flu.gov/professional/global/intltools.html</guid> 
+  <pubDate>Mon, 7 Feb 2011 10:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>HHS and Walgreens Announce New Effort Aimed at Addressing Health Disparities in Flu Vaccination</title> 
+  <description>U.S. Department of Health and Human Services Secretary Kathleen Sebelius today announced that Walgreens has agreed to donate $10 million in vouchers for free flu shots to 350,000 eligible uninsured and underserved people in 15 markets across the country.</description> 
+  <link>http://www.hhs.gov/news/press/2010pres/12/20101217a.html</link> 
+  <guid>http://www.hhs.gov/news/press/2010pres/12/20101217a.html</guid> 
+  <pubDate>Fri, 17 Dec 2010 18:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>H1N1 Vaccine Safe and Induces Robust Immune Response in People with Asthma </title> 
+  <description>2009 Results of NIH-supported study now available </description> 
+  <link>http://www.nih.gov/news/health/dec2010/niaid-13.htm</link> 
+  <guid>http://www.nih.gov/news/health/dec2010/niaid-13.htm</guid> 
+  <pubDate>Mon, 13 Dec 2010 16:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>Presidential Proclamation--National Influenza Vaccination Week</title> 
+  <description>Last year, as the world prepared for a pandemic of the 2009 H1N1 influenza virus, we were reminded of the severity and unpredictability of this serious disease.</description> 
+  <link>http://www.whitehouse.gov/the-press-office/2010/12/07/presidential-proclamation-national-influenza-vaccination-week</link> 
+  <guid>http://www.whitehouse.gov/the-press-office/2010/12/07/presidential-proclamation-national-influenza-vaccination-week</guid> 
+  <pubDate>Mon, 7 Dec 2010 9:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>A Flu Vaccine that Lasts: NIH Scientists Consider Prospects for a Universal Influenza Vaccine</title> 
+  <description>The costly, time-consuming process of making, distributing and administering millions of seasonal flu vaccines would become obsolete if researchers could design a vaccine that confers decades-long protection from any flu virus strain.</description> 
+  <link>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/universalFluVaxCommentary.aspx</link> 
+  <guid>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/universalFluVaxCommentary.aspx</guid> 
+  <pubDate>Mon, 6 Dec 2010 14:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>National Influenza Vaccination Week to be held December 5-11, 2010</title> 
+  <description>The Centers for Disease Control and Prevention (CDC) has set aside the week of December 5-11, 2010 to observe this season's National Influenza Vaccination Week. The week-long emphasis on flu vaccination was established to highlight the importance of continuing influenza vaccination...</description> 
+  <link>http://www.cdc.gov/media/pressrel/2010/r101203.html</link> 
+  <guid>http://www.cdc.gov/media/pressrel/2010/r101203.html</guid> 
+  <pubDate>Fri, 3 Dec 2010 14:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>Seasonal Flu and 2009 H1N1 Flu Vaccination Coverage Among Pregnant Women, 2009--10 Flu Season</title> 
+  <description>Because pregnant women are at increased risk for severe disease associated with influenza infection, the American College of Obstetricians and Gynecologists and the Advisory Committee on Immunization Practices have recommended seasonal influenza vaccination for women while pregnant, regardless of trimester...</description> 
+  <link>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5947a1.htm?s_cid=mm5947a1_w</link> 
+  <guid>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5947a1.htm?s_cid=mm5947a1_w</guid> 
+  <pubDate>Fri, 3 Dec 2010 12:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>NIH Experts Describe Influenza Vaccines of the Future</title> 
+  <description> Efforts to grow the vaccine virus in cells rather than eggs are currently under way and there is consideration of the addition to influenza vaccine of immune-stimulating adjuvants to be used in certain groups of individuals.</description> 
+  <link>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/FutureFluVax.aspx</link> 
+  <guid>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/FutureFluVax.aspx</guid> 
+  <pubDate>Wed, 17 Nov 2010 12:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>Interim Guidance on the Use of Influenza Antiviral Agents During the 2010-2011 Influenza Season</title> 
+  <description> The following guidance on the use of influenza antiviral drugs for the prevention and control of influenza during the 2010-2011 season has been submitted to the Morbidity and Mortality Weekly Report (MMWR) and will appear in that publication at a later date. </description> 
+  <link>http://www.cdc.gov/flu/professionals/antivirals/guidance/</link> 
+  <guid>http://www.cdc.gov/flu/professionals/antivirals/guidance/</guid> 
+  <pubDate>Tue, 16 Nov 2010 12:00:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>NIH Scientists Explore 1510 Influenza Pandemic and Lessons Learned</title> 
+  <description> A new commentary by researchers at the National Institute of Allergy and Infectious Diseases, part of the National Institutes of Health, explores the 1510 pandemic and what we have learned since then about preventing, controlling and treating influenza.</description> 
+  <link>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/1510Flu.aspx</link> 
+  <guid>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/1510Flu.aspx</guid> 
+  <pubDate>Mon, 15 Nov 2010 15:50:00 EST</pubDate> 
+</item>
+
+<item>
+  <title>New Study Re-examines Bacterial Vaccine Studies Conducted During 1918 Influenza Pandemic</title> 
+  <description>Secondary infections with bacteria such as Streptococcus pneumoniae, which causes pneumonia, were a major cause of death during the 1918 flu pandemic and may be important in modern pandemics as well.</description> 
+  <link>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/BacVac1918.aspx</link> 
+  <guid>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/BacVac1918.aspx</guid> 
+  <pubDate>Tue, 2 Nov 2010 18:10:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>2010-2011 Seasonal Influenza (Flu) Vaccine Safety</title> 
+  <description>Questions and answers on the safety of the 2010-2011 flu vaccine, including possible mild reactions.</description> 
+  <link>http://www.cdc.gov/flu/protect/vaccine/general.htm</link> 
+  <guid>http://www.cdc.gov/flu/protect/vaccine/general.htm</guid> 
+  <pubDate>Tue, 12 Oct 2010 10:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Seasonal Flu Information for Businesses and Employees</title> 
+  <description>Toolkit and other materials for businesses, employers, and their employees to learn ways to prevent the flu.</description> 
+  <link>http://www.cdc.gov/flu/business/</link> 
+  <guid>http://www.cdc.gov/flu/business/</guid> 
+  <pubDate>Thu, 8 Oct 2010 10:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Final Estimates for 2009–10 Seasonal Influenza and Influenza A (H1N1) 2009 Monovalent Vaccination Coverage – U.S., August, 2009 through May, 2010 </title> 
+  <description>Because the novel influenza A (H1N1) virus [2009 influenza A (H1N1)] was identified in April 2009, two separate influenza vaccines were distributed in the United States in 2009–2010: a seasonal vaccine and an influenza A (H1N1) 2009 monovalent vaccine (2009 H1N1 vaccine).</description> 
+  <link>http://www.cdc.gov/flu/professionals/vaccination/coverage_0910estimates.htm</link> 
+  <guid>http://www.cdc.gov/flu/professionals/vaccination/coverage_0910estimates.htm</guid> 
+  <pubDate>Thu, 7 Oct 2010 14:35:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Influenza Activity - United States and Worldwide, June 13--September 25, 2010</title> 
+  <description>Answers to common questions regarding influenza vaccine strain selection, including information on the virus strains recommended for use in the Northern and Southern Hemisphere influenza vaccines.</description> 
+  <link>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5939a3.htm?s_cid=mm5939a3_w</link> 
+  <guid>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5939a3.htm?s_cid=mm5939a3_w</guid> 
+  <pubDate>Thu, 7 Oct 2010 14:30:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Influenza Vaccination Coverage among Children Aged 6-23 Months - U.S., 2008-09 Influenza Season</title> 
+  <description>Answers to common questions regarding influenza vaccine strain selection, including information on the virus strains recommended for use in the Northern and Southern Hemisphere influenza vaccines.</description> 
+  <link>http://www.cdc.gov/flu/professionals/vaccination/coverage_6-23months.htm</link> 
+  <guid>http://www.cdc.gov/flu/professionals/vaccination/coverage_6-23months.htm</guid> 
+  <pubDate>Tue, 5 Oct 2010 11:30:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>Q and A: Vaccine Selection for the 2010-2011 Influenza Season</title> 
+  <description>Answers to common questions regarding influenza vaccine strain selection, including information on the virus strains recommended for use in the Northern and Southern Hemisphere influenza vaccines.</description> 
+  <link>http://www.cdc.gov/flu/about/qa/1011_vac_selection.htm</link> 
+  <guid>http://www.cdc.gov/flu/about/qa/1011_vac_selection.htm</guid> 
+  <pubDate>Fri, 1 Oct 2010 19:30:00 EDT</pubDate> 
+</item>
+
+<item>
+
+  <title>BARDA Funds Development of Next-Generation Portable Ventilators</title> 
+  <description>The contract will help fill the need for domestically manufactured, low-cost, user-friendly, and flexible next-generation ventilators.</description> 
+  <link>http://www.flu.gov/news/portablegenerators.html</link> 
+  <guid>http://www.flu.gov/news/portablegenerators.html</guid> 
+  <pubDate>Wed, 29 Sep 2010 19:30:00 EDT</pubDate> 
+
+</item>
+  
+<item>
+  <title>Health Requirements and Recommendations for Travel to Saudi Arabia During the 2010 Hajj: Information for U.S. Travelers</title> 
+  <description>Saudi Arabia updates its health and immunization requirements for travelers</description> 
+  <link>http://wwwnc.cdc.gov/travel/content/in-the-news/Hajj-2010.aspx</link> 
+  <guid>http://wwwnc.cdc.gov/travel/content/in-the-news/Hajj-2010.aspx</guid> 
+  <pubDate>Wed, 29 Sep 2010 15:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>NIH study models H1N1 flu spread</title> 
+  <description>As the United States prepares for the upcoming flu season, a group of researchers supported by the National Institutes of Health continues to model how H1N1 may spread.</description> 
+  <link>http://www.nih.gov/news/health/sep2010/nigms-21.htm</link> 
+  <guid>http://www.nih.gov/news/health/sep2010/nigms-21.htm</guid> 
+  <pubDate>Tue, 21 Sep 2010 10:30:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>C&#243;mo limpiar y desinfectar las escuelas para ayudar a disminuir la propagaci&#243;n de la influenza</title> 
+  <description>La limpieza y la desinfecci&#243;n son parte de una amplia estrategia para prevenir las enfermedades infecciosas en las escuelas. Para ayudar a disminuir la propagaci&#243;n de la influenza (gripe), la primera l�&#237;nea de defensa es la vacunaci&#243;n. Otras medidas comprenden cubrirse la nariz y la boca al toser o estornudar, lavarse las manos y mantener a las personas enfermas alejadas de las sanas.</description> 
+  <link>http://www.flu.gov/professional/school/cleaning_sp.html</link> 
+  <guid>http://www.flu.gov/professional/school/cleaning_sp.html</guid> 
+  <pubDate>Tue, 07 Sep 2010 22:30:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>How to Clean and Disinfect Schools to Help Slow the Spread of Flu</title> 
+  <description>Cleaning and disinfecting are part of a broad approach to preventing infectious diseases in schools. To help slow the spread of influenza (flu), the first line of defense is getting vaccinated. Other measures include covering coughs and sneezes, washing hands, and keeping sick people away from others. Below are tips on how to slow the spread of flu specifically through cleaning and disinfecting.</description> 
+  <link>http://www.flu.gov/professional/school/cleaning.html</link> 
+  <guid>http://www.flu.gov/professional/school/cleaning.html</guid> 
+  <pubDate>Tue, 07 Sep 2010 22:30:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>Get information about high-risk groups, flu symptoms and emergency warning signs, and get CDC recommendations.</title> 
+  <description>This document from the Centers for Disease Control and Prevention (CDC), an agency of the U.S. Department of Health and Human Services, provides guidance to help reduce the spread of seasonal influenza (flu) among students and staff in K-12 schools during the 2010-2011 school year.</description> 
+  <link>http://www.flu.gov/professional/school/k12administrators.html</link> 
+  <guid>http://www.flu.gov/professional/school/k12administrators.html</guid> 
+  <pubDate>Tue, 07 Sep 2010 22:30:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Influenza Vaccination Information for Health Care Workers</title> 
+  <description>This document provides lists of facts and recommendations for health care workers concerning the flu and vaccinations.</description> 
+  <link>http://www.flu.gov/professional/hospital/hcworkers_vaccine.html</link> 
+  <guid>http://www.flu.gov/professional/hospital/hcworkers_vaccine.html</guid> 
+  <pubDate>Thu, 02 Sep 2010 15:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>Estimating Seasonal Influenza-Associated Deaths in the U.S: CDC Study Confirms Variability of Flu</title> 
+  <description>Estimating Seasonal Influenza-Associated Deaths in the United States: CDC Study Confirms Variability of Flu</description> 
+  <link>http://www.cdc.gov/flu/about/disease/us_flu-related_deaths.htm</link> 
+  <guid>http://www.cdc.gov/flu/about/disease/us_flu-related_deaths.htm</guid> 
+  <pubDate>Thu, 26 Aug 2010 15:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>Review Calls for New Federal Approach to Medical Countermeasures</title> 
+  <description>HHS Secretary releases review and recommendations driven by pandemic flu experience</description> 
+  <link>http://www.hhs.gov/news/press/2010pres/08/20100819a.html</link> 
+  <guid>http://www.hhs.gov/news/press/2010pres/08/20100819a.html</guid> 
+  <pubDate>Thu, 19 Aug 2010 12:00:00 EDT</pubDate> 
+</item>
+<item>
+
+  <title>WHO Director-General Statement</title> 
+  <description>The world is no longer in phase 6 of influenza pandemic alert. We are now moving into the post-pandemic period. The new H1N1 virus has largely run its course.</description> 
+  <link>http://www.who.int/mediacentre/news/statements/2010/h1n1_vpc_20100810/en/index.html</link> 
+  <guid>http://www.who.int/mediacentre/news/statements/2010/h1n1_vpc_20100810/en/index.html</guid> 
+  <pubDate>Tue, 10 Aug 2010 10:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>WHO Recommendations for the Post-pandemic Period</title> 
+  <description>The world is now in the post-pandemic period. Based on knowledge about past pandemics, the H1N1 (2009) virus is expected to continue to circulate as a seasonal virus for some years to come.</description> 
+  <link>http://www.who.int/csr/disease/swineflu/notes/briefing_20100810/en/index.html</link> 
+  <guid>http://www.who.int/csr/disease/swineflu/notes/briefing_20100810/en/index.html</guid> 
+  <pubDate>Tue, 10 Aug 2010 10:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>Questions and Answers: CSL Seasonal Influenza Vaccine Safety in the U.S.
+</title> 
+  <description>CSL Seasonal Influenza Vaccine Safety in the 
+United States</description> 
+  <link>http://www.cdc.gov/flu/protect/vaccine/qa_cslfluvac.htm</link> 
+  <guid>http://www.cdc.gov/flu/protect/vaccine/qa_cslfluvac.htm</guid> 
+  <pubDate>Mon, 09 Aug 2010 10:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Recommended Flu Vaccines for Different Age Groups</title> 
+  <description>Recommended Flu Vaccines for Different Age Groups - U.S., 2010-11 Season</description> 
+  <link>http://www.cdc.gov/flu/protect/vaccine/vaccines.htm</link> 
+  <guid>http://www.cdc.gov/flu/protect/vaccine/vaccines.htm</guid> 
+  <pubDate>Mon, 09 Aug 2010 10:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>WHO Updates International H1N1 Flu Situation</title> 
+  <description>As of 1 August 2010, worldwide more than 214 countries and overseas territories or communities have reported laboratory confirmed cases of pandemic influenza H1N1 2009, including over 18449 deaths.</description> 
+  <link>http://www.who.int/csr/don/2010_08_06/en/index.html</link> 
+  <guid>http://www.who.int/csr/don/2010_08_06/en/index.html</guid> 
+  <pubDate>Fri, 06 Aug 2010 13:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>FDA Approves Vaccines for the 2010-2011 Influenza Season</title> 
+  <description>The U.S. Food and Drug Administration announced today that it has approved vaccines for the 2010-2011 influenza season in the United States.</description> 
+  <link>http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm220718.htm</link> 
+  <guid>http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm220718.htm</guid> 
+  <pubDate>Fri, 30 July 2010 17:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>Prevention and Control of Influenza with Vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP), 2010</title> 
+  <description>This report updates the 2009 recommendations by CDC's Advisory Committee on Immunization Practices (ACIP) regarding the use of influenza vaccine for the prevention and control of influenza.</description> 
+  <link>http://www.cdc.gov/mmwr/preview/mmwrhtml/rr59e0729a1.htm?s_cid=rr59e0729a1_w</link> 
+  <guid>http://www.cdc.gov/mmwr/preview/mmwrhtml/rr59e0729a1.htm?s_cid=rr59e0729a1_w</guid> 
+  <pubDate>Thu, 29 July 2010 19:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>NIAID Grantees Use New Skin Patches to Deliver Flu Vaccine in Mice</title> 
+  <description>For many years, researchers have been working to find a way to deliver flu vaccine - whose components are much larger than those of nicotine and hormones - using a transdermal (across the skin) patch.</description> 
+  <link>http://www.niaid.nih.gov/topics/Flu/Research/vaccineResearch/Pages/FluShotsNoMore.aspx</link> 
+  <guid>http://www.niaid.nih.gov/topics/Flu/Research/vaccineResearch/Pages/FluShotsNoMore.aspx</guid> 
+  <pubDate>Thu, 29 July 2010 19:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>NIH Scientists Advance Universal Flu Vaccine</title> 
+  <description>A universal influenza vaccine - so-called because it could potentially provide protection from all flu strains for decades - may become a reality because of research led by scientists from the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health.</description> 
+  <link>http://www.nih.gov/news/health/jul2010/niaid-15.htm</link> 
+  <guid>http://www.nih.gov/news/health/jul2010/niaid-15.htm</guid> 
+  <pubDate>Thu, 15 July 2010 15:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>H1N1 Influenza Public Health Emergency Determination to Expire on June 23</title> 
+  <description>H1N1 Influenza Public Health Emergency Determination to Expire on June 23</description> 
+  <link>http://www.flu.gov/news/h1n1pheexpiration.html</link> 
+  <guid>http://www.flu.gov/news/h1n1pheexpiration.html</guid> 
+  <pubDate>Thu, 24 June 2010 13:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>Advance Notice for Termination of the Emergency Use Authorization (EUA) of Medical Products and Devices</title> 
+  <description>Per the FDA-issued advance notice letters listed below, the declaration of Public Health Emergency determination for 2009 H1N1 Influenza expires on June 23, 2010. </description> 
+  <link>http://www.cdc.gov/h1n1flu/eua/</link> 
+  <guid>http://www.cdc.gov/h1n1flu/eua/</guid> 
+  <pubDate>Wed, 23 June 2010 09:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>New CDC Test to Detect Human Infections with the 2009 H1N1 Influenza Virus Authorized for Use by FDA</title> 
+  <description>A test developed by the U.S. Centers for Disease Control and Prevention to diagnose human infections with the 2009 H1N1 influenza virus (formerly known as swine flu or pandemic H1N1 flu) was authorized for use today by the U.S. Food and Drug Administration.</description> 
+  <link>http://www.cdc.gov/media/pressrel/2010/r100622.htm</link> 
+  <guid>http://www.cdc.gov/media/pressrel/2010/r100622.htm</guid> 
+  <pubDate>Wed, 23 June 2010 09:00:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>WHO Updates International H1N1 Flu Situation</title> 
+  <description>As of 13 June, worldwide more than 214 countries and overseas territories or communities have reported laboratory confirmed cases of pandemic influenza H1N1 2009, including over 18172 deaths.</description> 
+  <link>http://www.who.int/csr/don/2010_06_18/en/index.html</link> 
+  <guid>http://www.who.int/csr/don/2010_06_18/en/index.html</guid> 
+  <pubDate>Fri, 18 June 2010 13:30:00 EDT</pubDate> 
+
+</item>
+
+<item>
+  <title>FDA Warns About Fraudulent Tamiflu</title> 
+  <description>The U.S. Food and Drug Administration today warned consumers about a potentially harmful product represented as Generic Tamiflu sold over the Internet. FDA tests revealed that the fraudulent product does not contain Tamiflu's active ingredient, oseltamivir, but cloxacillin, an ingredient in the same class of antibiotics as penicillin.</description> 
+  <link>http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm216148.htm</link> 
+  <guid>http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm216148.htm</guid> 
+  <pubDate>Thu, 17 June 2010 18:30:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>CDC issues 2009 H1N1 Pandemic: Summary Highlights, April 2009-April 2010</title> 
+  <description>Centers for Disease Control and Prevention document that summarizes key events of the 2009 H1N1 pandemic and CDC's response activities.</description> 
+  <link>http://www.cdc.gov/h1n1flu/cdcresponse.htm</link> 
+  <guid>http://www.cdc.gov/h1n1flu/cdcresponse.htm</guid> 
+  <pubDate>Wed, 16 June 2010 20:30:00 EDT</pubDate> 
+</item>
+
+<item>
+  <title>NIH-Funded Scientists Find 2009 H1N1 Pandemic Influenza Vaccine Protects Mice from 1918 Influenza Virus</title> 
+  <description>Mice injected with a 2009 H1N1 pandemic influenza vaccine and then exposed to high levels of the virus responsible for the 1918 influenza pandemic do not get sick or die, report scientists funded by the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health. </description> 
+  <link>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/2009H1N1VaxProtect1918.aspx</link> 
+  <guid>http://www.niaid.nih.gov/news/newsreleases/2010/Pages/2009H1N1VaxProtect1918.aspx</guid> 
+  <pubDate>Tue, 15 June 2010 17:40:00 EDT</pubDate>
+
+</item>
+
+<item>
+  <title>WHO Director-General Statement on Continuation of Pandemic Disease</title> 
+  <description>A global update was provided to the Committee on the pandemic situation, including a particular focus on developments in Africa and the Southern Hemisphere.</description> 
+  <link>http://www.who.int/csr/disease/swineflu/8th_meeting_ihr/en/index.html</link> 
+  <guid>http://www.who.int/csr/disease/swineflu/8th_meeting_ihr/en/index.html</guid> 
+  <pubDate>Thu, 03 June 2010 17:00:00 EDT</pubDate> 
+
+</item>
+
+<item>
+
+  <title>Preliminary Results: Surveillance for Guillain-Barre Syndrome After Receipt of Influenza A (H1N1) 2009 Monovalent Vaccine --- United States, 2009--2010</title> 
+  <description>Guillain-Barre syndrome (GBS) is an uncommon peripheral neuropathy causing paralysis and in severe cases respiratory failure and death.</description> 
+  <link>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm59e0602a1.htm</link> 
+  <guid>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm59e0602a1.htm</guid> 
+  <pubDate>Tue, 01 June 2010 16:30:00 EDT</pubDate> 
+</item>
+
+  </channel>
+</rss>
